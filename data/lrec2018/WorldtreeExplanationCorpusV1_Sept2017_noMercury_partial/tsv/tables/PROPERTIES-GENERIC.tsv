@@ -1,0 +1,47 @@
+X	[FILL] is a property of	Y	[FILL] includes	ORDERED/UNORDERED	[FILL] values of	VALUES	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+volume; sound intensity	is a property of	sound; sound energy	and includes	ordered	values of	quiet; normal; loud				8158-a40a-af21-cc53
+temperature; heat energy	is a property of	objects; weather	and includes	ordered	values of	cold; cool; warm; hot				4084-f2bc-52cf-0f74
+size	is a property of	objects	and includes	ordered	values of	microscopic; tiny; small; medium; large				02eb-d26b-a00c-c559
+hardness	is a property of a	material; an object	and includes	ordered	values of	malleable; rigid				72e2-6cde-7faa-4d2b
+length	is a property of the	shape of an object								0969-6f9e-9555-9731
+weather	is a property of a	environment								497d-88e3-9e63-877c
+sky conditions	are a property of	weather								75e5-d0aa-9512-f33c
+temperature	is a property of	weather								950c-7489-5659-db44
+wind speed	is a property of	weather								1a23-b7e4-5ac6-60c3
+conductivity	is a property of a	material; substance								d681-3158-6a99-253a
+flexibility	is a property of a	material								5109-65f3-6c0b-cecf
+thickness	is a property of an	object	and includes	ordered 	values of	thin; thick				05fc-2dd1-7863-00f2
+amount	is a property of	something	and includes	ordered 	values of	none; least; little; some; half; much; many; most; all				624a-c1ec-8c85-45ce
+texture	is a property of 	surfaces; materials; objects	and includes	ordered 	values of	smooth; rough				936a-31ea-b049-fee7
+mass; weight	is a property of	matter; objects; materials								d06e-6c86-abe9-f3d5
+volume	is a property of	matter								866b-5e77-f131-2b80
+streak	is a property of a	mineral								0367-da98-abce-d6f4
+color	is a property of 	an object; a material								5c52-4f26-3883-a4ef
+luster	is a property of 	an object; a material								aaca-ecc3-87f7-2658
+humidity	is a property of 	weather	and include	ordered	values of	dry; humid				33cb-429a-ce86-2d79
+distance	is a property of	space	and includes	ordered	values of	close; far				91b9-6388-d5b8-58b6
+opacity	is a property of an	object	and includes	ordered	values of	opaque; translucent; transparent				6ed2-789b-e3f7-91fa
+smell	is a property of	an object; a material; a substance								3a89-10f2-0ff2-f54c
+charge	is a property of	an object; a material; a substance	and includes	ordered	values of	negatively-charged; neutral; positively-charged				681b-df1b-33c5-3ad5
+structure	is a property of	an object; a material; a substance								46f3-afab-99e4-ee0c
+variability of shape; variability of volume	is a property of	matter	and includes		values of	variable; definite				5364-1d90-a262-32e7
+magnetism	is a property of	materials; objects	and includes	ordered	values of	nonmagnetic; magnetic				4a27-3046-0e5d-9891
+recyclability	is a property of a	material	and includes	ordered	values of	nonrecyclable; recyclable				b393-8aa8-f654-e6a9
+acidity	is a property of	chemicals; substances	and includes	ordered	values of	basic; neutral; acidic				6af8-1d7a-5fcd-3e77
+width	is a property of	size; shape	and includes	ordered	values of	narrow; wide				ba20-8706-42c6-1f9b
+flatness	is a property of	a surface; the shape of an object	and includes	ordered	values of	uneven; flat				046d-7605-f4cd-1f97
+depth	is a property of	the shape of an object								1e74-5982-396e-69c8
+strength	is a property of	an object; a material								635e-4c5d-98ab-31af
+latitude	is a property of a	location; place					on Earth			ad6f-9b09-9cd6-69ab
+sharpness	is a property of	shape								7832-1136-b1ac-6422
+melting point	is a property of a	substance; material								6ffc-7a7e-87d9-9732
+freezing point	is a property of a	substance; material								a665-2771-83e8-adb8
+boiling point	is a property of a	substance; material								6c7e-2cf1-8a3f-b14a
+ability to undergo a phase change	is a property of a	substance; material								8fca-420e-f8ad-082b
+density	is a property of	an object; a substance	and includes	ordered	values of	dense; not dense				b765-cf69-400e-c8f8
+condition	is a property of	an environment								bb76-5bf9-7c9a-e096
+air pressure	is a property of	air; the atmosphere								0b32-125c-d57c-a9fb
+composition	is a property of	an object; matter								1d88-121f-5fd2-6ed8
+shape	is a property of an	object								93fd-6a6f-7782-77d1
+shape of the parts of something	is a property of	that something								c4fd-cfe9-18c2-214f
+shape	is a property of the	appearance of an object								92e5-34ee-da79-3c25

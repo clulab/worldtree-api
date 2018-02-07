@@ -1,0 +1,26 @@
+ORGANISM	QUANTIFIER	eats/consumes	ORGANISM	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+hawks;eagles		eat	snakes;lizards			d28f-0727-460f-5ab6
+birds	sometimes	eat	berries;seeds			a6aa-97ee-2e4a-a9ad
+humans		eat	crops			76c8-6933-622a-64f6
+insects		eat	crops			b14c-4d0f-e45f-43ce
+lizards		eat	insects			625d-d91e-b300-b6dc
+bees		eat	pollen			de5e-63cc-6e02-60b7
+predators		eat	prey			fb00-41ad-f198-b5ac
+predators; carnivores; omnivores		eat	other animals			20a3-dcb5-8ce4-ae5c
+squirrels		eat	edible plants; fruit			de30-46f9-f287-cf05
+herbivores	only	eat	plants			57e4-c7f7-0031-fb0a
+cows	only	eat	plants			8280-558f-d30b-c051
+carnivores	only	eat	animals			f2b6-e2f5-8939-94ae
+omnivores		eat	plants; animals			3b62-4057-84c9-7743
+tuna		eat	fish			4134-b88a-654b-1cf3
+humans	sometimes	eat	seeds			733f-086d-4dee-dbc3
+consumers		eat	other organisms			10c2-8847-99e1-057b
+rabbits		eat	plants			dce1-e1d6-17ae-e024
+scavengers		eat	dead organisms			207c-b6d1-fb72-d730
+alligators		eat	frogs; turtles; fish; mice; birds			aa17-e87c-2259-5f04
+raccoons		eat	trash; garbage; waste			dc84-e95a-58d3-7e87
+bears		eat	berries; insects; animals			e451-b512-f1d6-5d36
+meadow voles		eat	plants; insects			f42a-5078-a2d5-d36a
+birds	sometimes	eat	insects			a872-f6a2-a467-59ec
+eagles		eat	fish			efb4-baee-b1ad-1184
+eagles		eat	rabbits			5ac6-9dc1-9a19-3eaa

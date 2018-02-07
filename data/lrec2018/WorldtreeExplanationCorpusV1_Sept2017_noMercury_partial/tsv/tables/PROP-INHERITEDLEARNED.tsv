@@ -1,0 +1,23 @@
+[FILL] a/the	ATTRIBUTE/QUANTITY	AGENT	ACTION	SCOPE	[FILL] is a(n)	QUANTIFIER	INHERITED/LEARNED	[FILL] characteristic	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+		eye color			is an		inherited	characteristic			1763-9f64-7941-cb50
+the		shape of body parts			is an		inherited	characteristic			c390-00e1-36dd-2ae2
+		curly hair			is an		inherited	characteristic			96e0-40fd-6189-dc8f
+the	color of; coloration of	fur			is an		inherited	characteristic			29be-69ad-17f4-11f0
+		height			is an		inherited	characteristic			78a9-0629-0526-4b03
+		freckles			are an		inherited	characteristic			cfdf-d0cc-a5c3-d5c1
+		skills			are		learned	characteristics			856a-1ef6-dd1f-154b
+the	colors of	the parts		of an organism	are		inherited	characteristics			102a-fa79-43cd-e9a4
+the	condition of	the parts		of an organism	are		acquired	characteristics			bc8d-37ef-e7d2-05e3
+the	length of	body parts			is an		inherited	characteristic			b32d-db8e-41c0-13c8
+		reproductive behavior			is an		inherited	characteristic			a616-023f-d122-f2f3
+			doing chores		is a		learned	characteristic			daaf-468d-1f9b-0fac
+a		scar			is an		acquired	characteristic			bb11-420c-4bb5-d176
+		using tools			is a		learned	characteristic			d889-0f71-bb81-1eb9
+			migration		is an		instinctive	behavior			7386-ad73-8eef-4980
+the	length of	the hair		of an animal	is an		acquired	characteristic			7f25-f44f-e96b-9a88
+the	type of	seed		of a plant	is an		inherited	characteristic			7bed-ba1b-4cde-f393
+the	thickness of	the parts		of an organism	is an		inherited	characteristic			1d43-ce6e-b5c5-c568
+a		trick			is a		learned	behavior			5bbc-9036-eb08-38e4
+			hibernation		is an		inherited	behavior			7ded-f79f-1ff4-efe2
+the	number of	body parts		of an organism	is an		inherited	characteristic			b4e7-dad7-cb84-1e31
+		preferences			are	generally	learned	characteristics			b53f-7ff9-3341-cd62

@@ -1,0 +1,5 @@
+[FILL] a(n)	ORGANISM	[FILL] weighs, on average	VALUE	UNIT	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+a	dog	weighs, on average	32	kg			8d82-d89e-3210-eb99
+a	horse	weighs, on average	between 400 and 550	kg			5ede-59cb-d266-b4b0
+a	chicken	weighs, on average	2	kg			9012-e8ac-14df-5227
+a 	lizard	weighs, on average	0.5	kg			fb38-2011-8574-1ceb

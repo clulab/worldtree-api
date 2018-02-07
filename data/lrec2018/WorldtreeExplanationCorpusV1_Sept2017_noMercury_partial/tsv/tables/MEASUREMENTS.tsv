@@ -1,0 +1,24 @@
+MEASURE	[FILL] is the/ is a	QUANTITY/ADJ	ATTRIBUTE	AGENT	ACTION	FROM	TO	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+climate	is the	usual kind of	weather					in a location			1dba-dc42-8ca9-0ab2
+rainfall	is the	amount of	rain	an area	receives						f2a1-5807-2b1e-fef3
+speed	is a	measure of	how fast	an object	is moving						87c6-f5c1-2d8f-e14a
+altitude	is the		distance			from the ground	to an object	in the sky			fb85-28a2-6923-fc43
+humidity	is the	amount of	water vapor; moisture					in the air; in the atmosphere			1c42-416a-fc92-2b03
+temperature	is	a measure of	heat energy								d753-423d-5ce7-53ce
+thickness	is 	a measure of	how thick	an object 	is						cd12-aac7-4181-607b
+height	is	a measure of	length			from the top of an object	to the bottom of an object				833b-2c13-d01b-2ac2
+streak	is	a measure of	the color	of a mineral				below the surface or as a powder			5f16-d62c-3e05-6719
+length	is	a measure of	distance			from one end of an object	to the other end of that object				067d-1aca-bec2-8141
+speed	is	a measure of	distance travelled					over time; divided by time			b753-a285-8304-024a
+distance	is	a measure of	space			from one location	to another location			Low quality	8bae-a97c-319c-53f2
+speed	is	a measure of	the time it takes		to complete a task					Low quality	a673-653b-9cde-f39c
+slope	is	a measure of	the difference in elevation			between one part of the land	and another part of the land				a72b-b781-e72f-5fc8
+elevation relative to sea level	is	a measure of 	how high a place is					relative to sea level			2168-c389-224e-2ee9
+diameter	is	a measure of	length	through the center of a circle							8c47-06f1-9f0f-10c4
+density	is	a measure of	mass					over volume; divided by volume			8d85-3a9e-2f98-5a9b
+distance moved; distance travelled	is	a measure of	how far	an object	moves						27bc-337b-3807-6f55
+tidal range	is	a measure of	the vertical distance			from high tide	to low tide				4b4a-63a2-a913-8b18
+mass	is	a measure of the	amount of matter in	an object							6dd3-883b-2639-04d5
+population	is	a measure of the	number of a	species				in an environment			f274-b61a-7bc7-123e
+potential energy	is	a measure of	the energy of	an object				due to position			b7c8-a816-2ceb-d787
+work	is	a measure of the	product of	force and distance							dcf5-861f-9ab6-f238

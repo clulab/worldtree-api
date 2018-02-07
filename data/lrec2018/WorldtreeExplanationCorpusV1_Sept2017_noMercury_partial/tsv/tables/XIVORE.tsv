@@ -1,0 +1,18 @@
+[FILL] a/an	ANIMAL	[FILL] is a kind of	QUANTIFIER	XIVORE	[SKIP] COMMENT	[SKIP] DEP	[SKIP] UID
+a	turtle	is a kind of		omnivore			8567-fc1a-2b84-3ac6
+a	cow	is a kind of		herbivore			dfcb-6cbb-85ac-9195
+a	squirrel	is a kind of		herbivore			917a-13e0-ccdc-3673
+a	rabbit	is a kind of		herbivore			d825-1694-54c8-7842
+a	deer	is a kind of		prey		Move	30d5-5f2a-1462-4a76
+a	bobcat	is a kind of		predator		Move	774c-70fb-21b9-d983
+a	panther	is a kind of		predator		Move	94f4-e876-d801-c20c
+an	owl	is a kind of		predator		Move	e4f6-cdf7-74e3-8c27
+an	hawk	is a kind of		predator		Move	0dcc-b257-e058-6cab
+an	eagle	is a kind of		predator		Move	f5b8-c279-74af-f197
+a	rabbit	is a kind of		prey		Move	5ff9-ab7a-fbdd-10f8
+a	fish	is a kind of		predator		Move	c561-260c-558d-89b4
+an	insect	is a kind of		prey		Move	2308-b66f-7997-bcc1
+a	mouse	is a kind of		herbivore			b063-0f0c-d332-f233
+a	hare	is a kind of		prey		Move	0cea-081d-192a-85fe
+a	deer	is a kind of		herbivore			3958-4821-2eca-d3a9
+a	cat	is a kind of		carnivore			c13c-3759-cff0-cd36

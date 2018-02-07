@@ -1,0 +1,58 @@
+MATERIAL	[FILL] is	QUALIFIER	MAGNETIC/NONMAGNETIC/FERROMAGNETIC	[SKIP] Comments	[SKIP] DEP	[SKIP] UID
+aluminum	is	always	nonmagnetic			7cc7-9198-9358-fdf5
+brass	is	always	nonmagnetic			083b-d47a-2d98-7325
+bronze	is	always	nonmagnetic			bca3-49ef-68a9-7d13
+chromium	is	always	nonmagnetic			15c4-e9b2-7186-2e43
+cobalt	is	always	ferromagnetic; magnetic			f0be-8ee2-3dc9-c516
+copper	is	always	nonmagnetic			dc80-6330-427e-36ff
+gold	is	always	nonmagnetic			42b6-a8e9-5665-d755
+hematite	is	always	ferromagnetic; magnetic			168d-a693-2ec1-ee66
+soft iron; iron	is	always	ferromagnetic; magnetic			8e64-7c6e-2572-2438
+lead	is	always	nonmagnetic			7164-31fa-44d7-61b0
+nickel	is	always	ferromagnetic; magnetic			b647-16b3-9341-d4de
+pewter	is	always	nonmagnetic			753f-5368-a211-ed1e
+silver	is	always	nonmagnetic			c110-0e79-f545-e341
+steel; carbon steel	is	always	ferromagnetic; magnetic			794a-7ac4-5e27-9d39
+stainless steel	is	always	magnetic; nonmagnetic			01b1-6b36-b6b8-5c97
+tin	is	always	nonmagnetic			4db8-5861-a56f-c38f
+zinc	is	always	nonmagnetic			1dda-2bae-9eb8-0622
+Babingtonite	is	always	magnetic			8b95-fe18-dbc1-7c08
+Barite	is	always	magnetic			a447-77af-169b-ae1f
+Borax	is	always	magnetic			35df-1618-897b-4405
+Braunite	is	always	magnetic			ead8-2c52-fa03-cf4a
+Burckhardtite	is	always	magnetic			71a9-9f53-252f-a6be
+Cadmium	is	always	magnetic			aca8-8280-e839-7671
+Chromite	is	always	magnetic			6e0f-fabc-9a30-ed70
+Chromferide	is	always	magnetic			5455-fa26-7125-455e
+Columbite	is	always	magnetic			9e9a-a8ae-8561-fa20
+Coyoteite	is	always	magnetic			2603-df1f-cacc-b864
+Epidote	is	always	magnetic			9fb0-9ec7-8d1d-afbf
+Epsomite	is	always	magnetic			2f0f-6f4d-d1b5-95db
+Ferberite	is	always	magnetic			94a3-c532-7b7d-7b2d
+Franklinite	is	always	magnetic			fcdf-4c69-0833-c1b9
+Goslarite	is	always	magnetic			ec72-673d-bd10-028a
+Jacobsite	is	always	magnetic			7fde-80ba-86dd-7deb
+Ludlamite	is	always	magnetic			4bb6-215a-1a0d-97b9
+Maghemite	is	always	magnetic			a71b-adc1-7504-2a7d
+Magnetite	is	always	magnetic			85b8-671b-6af2-c397
+Magnetoplumbite	is	always	magnetic			95f4-0f32-02aa-0af2
+Manganbabingtonite	is	always	magnetic			41fa-fa72-3651-db02
+Nitratine	is	always	magnetic			788b-d16c-c625-db9f
+Platinum	is	always	magnetic			3344-d76f-5d8f-0c61
+Pyrrhotite	is	always	magnetic			aa8b-6751-e135-d06f
+Siderite	is	always	magnetic			aede-d34c-c7ef-0eea
+Tantalite	is	always	magnetic			087d-7028-ab8c-12be
+Trevorite	is	always	magnetic			22b4-d564-fdae-3786
+plastic	is	always	nonmagnetic			a68f-e428-18de-2f21
+wood	is	always	nonmagnetic			07a3-e850-eebe-3043
+glass	is	always	nonmagnetic			56c8-cc89-2a22-4eea
+fabric	is	always	nonmagnetic			5b8f-dfea-901b-2e62
+paper	is	always	nonmagnetic			814f-7707-4006-bc2d
+cardboard	is	always	nonmagnetic			5968-79e2-9f40-8f2d
+wax	is	always	nonmagnetic			86f2-92cc-134e-880b
+clay	is	always	nonmagnetic			c3af-7538-795e-ec56
+gravel	is	always	nonmagnetic			f997-a180-795e-e872
+iron	is	always	magnetic			a6d3-031b-6398-c30e
+oxygen	is	always	nonmagnetic			2384-e381-8dba-3a85
+metal	is	sometimes	magnetic			47eb-c4e4-e924-7160
+sand	is		nonmagnetic			9f32-c759-d73a-9bf2

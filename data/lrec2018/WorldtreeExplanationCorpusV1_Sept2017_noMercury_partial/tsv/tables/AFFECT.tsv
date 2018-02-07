@@ -1,0 +1,78 @@
+ACTOR/WHO	QUANTITY	VERB	OBJECT/PROPERTY	QUALIFIER	[FILL] has a 	POSITIVE/NEGATIVE	[FILL] effect/impact on/for	ADJ	PATIENT	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+		harming	something		has a 	negative	impact on; effect on		that something							57d4-79ba-a97d-0f9a
+waste					has a 	negative	impact on the		environment							2d23-54ce-1de1-e3a8
+		recycling			has a 	positive	impact on the		environment							da14-61d8-ad00-8a01
+		recycling	resources; nonrenewable resources		has a 	positive	impact on the		environment; conservation of those resources							813f-2778-ed53-0c9f
+		planting	trees		has a 	positive	impact on an		ecosystem							53a9-7d7d-dbcb-98aa
+		planting	native plants		has a 	positive	impact on an		ecosystem							1f99-d3ee-86cc-008f
+		eating	food that contains pesticides	can	have a	negative	impact on		humans							1900-f929-b3a7-b605
+		cutting down	trees		has a 	negative	impact on an		ecosystem; organisms living in an ecosystem							f178-8a67-81c1-e3fb
+humans		changing	ecosystems;environments	usually	has a 	negative	impact on an		ecosystem; organisms living in an ecosystem							f4dc-5030-6255-a1f8
+		erosion	of soil		has a 	negative	impact on the		environment; soil quality							1fc9-87b3-4b09-6451
+		helping	something		has a 	positive	impact on		that something							b5b8-ce64-6568-4a6c
+		harming	an animal species		has a 	negative	impact on the		population size of that species							8bb1-de8d-5925-74c6
+exercise					has a 	positive	impact on a		body's strength							768d-b035-c9fc-da67
+rest					has a 	positive	impact on a		health							50de-3baf-f64e-f3fb
+	too much		water		has a 	negative	impact on the		growth			of a plant				b421-66e0-479f-cc4e
+		crop rotation			has a 	positive	impact on		soil quality							025a-3b8a-b5f2-f320
+		protecting	a living thing		has a 	positive	impact on	that living thing's	survival; health							1992-cbd3-6534-a7f7
+the looseness of soil					has a	positive	impact on a	plant's roots'	growth			in that soil				e7ae-7d71-673a-aff7
+		staying	warm		has a	positive	impact on an	animal's	survival; health							2aff-8cb6-a4f9-5fd9
+			exercise		has a	positive	impact on a	human's	health							5875-4a46-39fe-053f
+		sleeping		all day	has a 	negative	impact on a	human's	health							33a9-52c2-ab75-070d
+			acid rain		has a 	negative	impact on 		water quality							8c01-39ba-c26c-f060
+wind direction					has an		impact on		temperature						Low quality. 	0b40-a0ef-e690-f63c
+			an adaptation; an ability		has a	positive	impact on an	animal's; living thing's	survival; health; ability to reproduce							b48d-28f4-b020-de9f
+		protecting	nature		has a	positive	impact on the		environment							a4c9-298f-e5c2-eb55
+pollution					has a	negative	impact on the		environment; air quality							d116-6f25-b3ac-7d88
+fertilizers					have a	negative	impact on the		environment; natural resources							e65a-df84-fcd2-733c
+landfills					have a	negative	impact on the		environment; communities							fbcb-2151-6afa-c1c5
+loss of resources					has a	negative	impact on  the		organisms			in an area				9b1c-6275-14cd-43e5
+national parks					have a	positive	impact on		ecosystems							0c65-2951-3811-5f6a
+fishing					has a	negative	impact on		ecosystems							9ea7-0ab4-73cf-d2e1
+fertilizers					have a	positive	impact on	algae	growth							6cb9-7da9-1e1b-119b
+glaciers		melting			has a	negative	impact on		the glaicial environment							e170-b8a2-8292-67af
+		travelling quickly			has a	positive	impact on		a person's life							14a9-afe5-f64a-d254
+		learning	about the cause of a disease		has a	positive	impact on		finding a cure for the disease							b78b-23bd-d0fc-8d81
+cold temperatures				usually	have a	negative	impact on		organisms							cf66-dfc6-48d2-57ce
+		helping	bodily processes		has a	positive	impact on		an animal; an animal's health							4a99-8800-c83e-73fb
+			seed dispersal		has a	positive	impact on		a plant; a plant's reproduction							2337-f998-9a82-5444
+illness					has a	negative	impact on		an organism's health							0c02-ef0b-7f35-1468
+		having	food		has a	positive	impact on		an organism's health							4d6a-a765-2231-eee7
+		looking	at bright objects		has a	negative	impact on		the eyes							9209-73ec-9b0b-56a0
+		avoiding	predators		has a	positive	impact on	prey's; an organism's	survival; health; ability to reproduce							a6f0-93ef-5850-b78f
+resources		becoming	available		has a	positive	impact on		the things that need those resources							0f63-0b4e-b0a3-6638
+state of matter					has	no	impact on		mass						Moved to COUPLEDRELATIONSHIP	fe9e-a662-16d3-2f43
+oxygen					has a	positive	impact on	air	quality							cb44-c094-9e51-f22c
+		staying	cool		has a	positive	impact on		a human's comfort							9e69-51bc-d488-fd6e
+		saving	money		has a	positive	impact on		a person; a company							aa8d-f63d-7aba-2b48
+darkness					has a	negative	impact on		photosynthesis							8be8-72e2-0326-1f4b
+using sturdy materials		to build	furniture		has a	positive	impact on		the use of that furniture							8697-ef37-f85f-edcd
+		performing	a task	in less time; more quickly; faster	has a	positive	impact on		a person's life							4893-838a-20f6-131a
+communication					has a	positive	impact on		a person's life							03f4-694a-d986-eb3a
+		decreasing	something negative		has a	positive	impact on		a thing							d390-3d50-786d-4e9f
+		cracking	something	usually	has a	negative	impact on		that something							331a-fc1c-2a90-be69
+the decrease			of something required by an organism		has a	negative	impact on		that organism's survival							f346-e8eb-6338-4e34
+a required resource		being low in availability			has a	negative	impact on		the something  that requires that resource							09f9-ddfd-fa69-b278
+an animal		being born; being hatched	when food is available		has a	positive	impact on	that animal's	survival; health							6aab-57ff-4d45-9ebf
+an animal		being born; being hatched	when temperatures are warm		has a	positive	impact on	that animal's	survival; health							afdd-eda7-b0e6-ad1a
+		having	a variety of foods available		has a	positive	impact on	people's	lives							7f82-8a0b-a3e0-26c5
+money				usually	has a	positive	impact on	a person's	life							fae8-a262-8845-ae7b
+advantage					has a	positive	impact on		something							2f27-9c3b-1811-e537
+a living thing		surviving			has a	positive	impact on	that living thing's	ability to compete for resources							5023-29ed-9f25-f7cf
+food		spoiling			has a	negative	impact on	the health	of the animal that eats that food							43bf-25d8-a9a1-8d90
+zinc					has a	positive	impact on		the healing of wounds							2a71-fe32-5eeb-9a92
+the ability		to access; to acquire; to find	resources		has a	positive	impact on	an organism's	survival; health							78ba-5668-31d9-7285
+			good bacteria		have a	positive	impact on	a living thing's	survival; health							f542-77fe-59a4-e55f
+			a tube-like body		has a	positive	impact on		moving through soil							59cc-fafd-ca02-2f99
+light rays				can	have a	negative	impact on		the eyes							9430-e769-9be8-f995
+		dissolving	a substance in another substance		has	no	impact on		taste						Not an AFFECT	6445-bb14-2f38-ced1
+		warning people of dangers			has a	positive	impact on		the safety			of those people				3f22-c269-a38b-5f52
+insects				can	have a	negative	impact on		crops							8abe-8679-9624-5b42
+distance from an ocean					has an		impact on	the climate	of an area						Moved to COUPLEDRELATIONSHIP	21aa-7ddd-bb54-be31
+		conserving	resources		has a	positive	impact on		the environment							3891-6bf5-33a7-0c5e
+type of material		through which a sound travels			has an		impact on	the speed	at which a sound travels						Moved to CHANGE table	4f3c-6616-bcde-a19f
+the increase of something		required	by an organism		has a	positive	impact on	that organism's	survival							a6e1-01e9-def3-d510
+crops		growing well			has a	positive	impact on	a farmer's	livelihood							e9be-b235-ac20-1a20
+		organic matter			has a	positive	impact on	soil texture								770f-d0fc-866d-3bfc
+		being	stronger	usually	has a	positive	impact on an	organism's; living thing's	health							ef33-d8a6-2168-2d74

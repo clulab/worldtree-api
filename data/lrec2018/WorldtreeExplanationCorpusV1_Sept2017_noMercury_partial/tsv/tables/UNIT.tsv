@@ -1,0 +1,32 @@
+UNIT	[FILL] (	ABBREVIATION	[FILL] )	[FILL] is a unit used for measuring	PROPERTY	[FILL] generally used for values between	LOWERBOUND	[FILL] and	UPPERBOUND	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+degrees fahrenheit	(	F	)	is a unit used for measuring	temperature	generally used for values between	-450	and	50000000			461f-00e5-56fe-dd2c
+degrees celsius	(	C	)	is a unit used for measuring	temperature	generally used for values between	-273	and	50000000			93f5-b0bb-73b5-8b40
+degrees kelvin	(	K	)	is a unit used for measuring	temperature	generally used for values between	0	and	50000000			140c-77ad-c6a7-5b26
+liters	(	L	)	is a unit used for measuring	volume	generally used for values between	1	and	50000000			4aff-d072-35cc-3ebe
+milliliters	(	mL	)	is a unit used for measuring	volume	generally used for values between	1	and	1000			833d-29e2-dde2-a9fa
+gallons	(	gal	)	is a unit used for measuring	volume	generally used for values between	1	and	50000000			814f-2587-109c-bd9c
+quarts	(	qt	)	is a unit used for measuring	volume	generally used for values between	1	and	4			697e-618e-8018-e806
+cups	(	c	)	is a unit used for measuring	volume	generally used for values between	0.125	and	8			5662-eed6-05d1-2149
+pints	(	pt	)	is a unit used for measuring	volume	generally used for values between	1	and	2			dc03-9737-bee3-4b58
+fluid ounce	(	fl oz	)	is a unit used for measuring	volume	generally used for values between	0.125	and	8			c32f-839b-f5fc-6a1e
+meters	(	m	)	are a unit used for measuring	length; distance	generally used for values between	1	and	1000			f297-a722-c60d-7be0
+millimeters	(	mm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	100			f33c-7d47-3cf5-ef70
+centimeters	(	cm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	250			8489-9ffe-b585-3aaf
+nanometers	(	nm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	1000			c840-d35c-641c-e5ea
+kilometers	(	km	)	are a unit used for measuring	length; distance	generally used for values between	1	and	50000000			76d6-aa20-ec92-1c4a
+decimeters	(	dm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	10			2bea-d875-bb6c-a12a
+miles	(	mi	)	are a unit used for measuring	length; distance	generally used for values between	1	and	50000000			b118-56f3-85c4-5e8b
+feet	(	ft	)	are a unit used for measuring	length; distance	generally used for values between	1	and	50000			b69d-9d08-0ad6-3023
+yards	(	yd	)	are a unit used for measuring	length; distance	generally used for values between	1	and	1000			b69d-9d08-0ad6-3023
+picometer	(	pm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	1000			f75f-1151-f222-2281
+femtometers	(	fm	)	are a unit used for measuring	length; distance	generally used for values between	1	and	1000			cd08-fa15-26b8-135f
+light years	(	ly	)	are a unit used for measuring	length; distance	generally used for values between	1	and	27000000000			b0ba-81fa-58f4-a81b
+grams	(	g	)	are a unit used for measuring	mass; weight	generally used for values between	1	and	2000			3ad2-62a6-57f5-df68
+kilograms	(	kg	)	are a unit used for measuring	mass; weight	generally used for values between	1	and	50000000			7a26-9d80-a88f-94fa
+pounds	(	lb	)	are a unit used for measuring	mass; weight	generally used for values between	1	and	50000000			68fe-16bc-d67a-41b9
+tonnes	(	t	)	are a unit used for measuring	mass; weight	generally used for values between	1	and	50000000			1456-f51f-a4cd-2dfb
+ounces	(	oz	)	are a unit used for measuring	weight	generally used for values between	1	and	16			0fb6-3ecf-eb41-0b84
+years	(	y	)	are a unit used for measuring	time	generally used for values between	1	and	14000000000			4753-1b7f-3bca-f7bf
+months	(	m	)	are a unit used for measuring	time	generally used for values between	1	and	24			5fa3-ff9a-dc19-47a0
+days	(	d	)	are a unit used for measuring	time	generally used for values between	1	and	365			a459-e38e-38fd-c536
+seconds	(	s; sec	)	are a unit used for measuring	time	generally used for values between	1	and	300			6959-8a0c-c3fb-f49b

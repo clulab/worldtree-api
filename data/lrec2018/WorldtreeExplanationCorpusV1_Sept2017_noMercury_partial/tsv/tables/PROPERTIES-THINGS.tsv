@@ -1,0 +1,174 @@
+[FILL] a/the	ADJ	THING	QUALIFIER	[FILL] is/has	QUALIFIER	MAGNITUDE	VALUE	ATTRIBUTE	SCOPE/RELATIVETO	[FILL] with values between	LOWERBOUND	[FILL] and	UPPERBOUND	UNITS	[FILL] for/to	PURPOSE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+		a part of a living thing		is			a natural	structure											0b7b-e025-3fb7-01dd
+an		acid		is			acidic												a83c-9d85-5625-d525
+an		airplane		is			fast	in speed											f39e-99d0-faec-c532
+		aluminum		is			recyclable	    										Moved to Proto-Prop-Recyclable	bb4e-97eb-b86a-06b9
+an		amphibian		has			smooth	skin											d01a-a4c0-abba-7c09
+a	poisonous	animal		is			dangerous												3aee-f557-db87-1cce
+		asphalt		is a			smooth	surface											201e-3e95-e41a-672d
+an		atom		is		exceptionally	small	in size											7caf-566e-855c-469b
+		bacteria		is			small; microscopic	in size											dda0-d5ba-63eb-7efa
+		bark		is	usually		brown	in color											8bb3-c62b-91dc-4004
+a		base		is			basic												0dc5-1599-55c4-d922
+the		body of a warm-blooded animal		is	usually		warm	in temperature											c227-44da-44a9-1d09
+	hollow	bones		are			lighter	in weight											7e98-a3e5-b8ca-8603
+the		bottom of a body of water		is			the deepest												7830-485a-4be0-309b
+a		canyon		is			a very big	crack	in the ground										b4a1-2f8f-4c7e-c2e2
+a		canyon		is			a very deep	valley											2cbd-efbb-f60c-be22
+		car accidents		are			dangerous												b590-a5c1-13d1-7476
+		carbon dioxide		is			colorless												b872-e845-39f5-5b25
+		carbon monoxide		is			dangerous												647e-2661-236a-2a01
+		carpet		has			a rough	surface											5d4c-1f90-7506-34e5
+a		carrion flower		has			a carrion-like	smell											ac44-1bc1-1c8d-6525
+a		cell		is		very	small												c22d-d40d-4d02-796e
+		chlorophyll		is			green	in color											e177-d259-0054-a88b
+a	closed	circuit		has			continuous	path											3c9d-e904-586a-2a9d
+		concrete		is	usually		a smooth	surface											2bcd-053b-16f1-66e2
+a		cushion		is			soft											Moved to Prop-Hardness	fd54-8b0f-b71d-e59c
+a		danger		is			dangerous												722f-6492-305c-ddae
+a	sunny	day		has 			lots	of sunlight											794f-a751-b0d2-097f
+a	cloudy	day		has			little	sunlight											ed6f-25fd-dcd0-1af2
+a		desert		has			low	rainfall										Moved to PROP-ENVIRONMENTATTRIB	4970-bab6-3e20-652d
+an		desert	usually	has			a lot	of sunlight										Moved to PROP-ENVIRONMENTATTRIB	7c2b-18d1-829c-048c
+a		desert	usually	is			hot	in temperature										Moved to PROP-ENVIRONMENTATTRIB	2ce9-8375-8a58-750f
+a		desk		is	usually		short	in height; in width											0100-2f53-c324-81e2
+a		desk	usually	has a				length		with values between	50	and	250	cm					389e-42be-0a2b-0683
+		desserts	usually	have			less 	nutrients	than other foods										d716-961b-dfd9-e792
+a	face	dimple		is			depressed; indented	in shape											87a1-9fd1-636a-072d
+a		drop		is			a small	amount of liquid											1383-98fd-54fa-3ce4
+a		dwarf planet		is	usually	much	smaller	in size; in mass	than other planets										447e-1243-6d4e-e9e1
+		Earth		has			a rocky	terrain	in some places										ded1-6066-fabd-b5ad
+a	warm	environment	usually	has			more	food	than a cold environment										7f54-4f3b-f1fc-91aa
+	cold	environments	usually	have			little	food							for	animals			aa49-4312-5751-0a4e
+a	ball	field		is			open; grassy												f341-ffff-8752-ebe0
+a		fingerprint		is			small	in size											39c0-522a-11a2-3a53
+		floodplains		are			flat	in shape											c1af-f272-25af-a368
+		flowers	often	have a			sweet	smell							to	attract pollinators			6f76-c3b2-2312-e50c
+	fresh	food		is	usually		safe	to eat											c9d3-5f71-de10-2716
+a	dense	forest		is	often		dark	in color										Moved to PROP-ENVIRONMENTATTRIB	e01d-a57c-e5db-71a7
+a		forest		is	often		green	in color										Moved to PROP-ENVIRONMENTATTRIB	58bb-e912-bc25-5d3b
+a		forest		receives			more	rainfall	than a desert									Moved to PROP-ENVIRONMENTATTRIB	5398-a3f9-1ecf-29b4
+a		freezer		is			cool; cold	in temperature 											a7e7-4c34-fac1-a502
+	white	fur		is			white	in color											9ed5-f4a8-9357-2763
+		grass		is			a rough	surface											05fc-1029-d104-3be1
+		grass		is			green	in color											c683-bb38-4c18-252e
+a		grassland		receives			more	rainfall	than a desert									Moved to PROP-ENVIRONMENTATTRIB	a339-d450-6ac8-fc73
+ 		gravel		is			a rough	surface											9c2f-5280-ba4b-e3c6
+		hair		is			thin												9fc4-8f42-b1f1-b569
+a		hill		is			more	rounded	than a mountain										8559-8dfa-7241-515b
+a		hole		is			less 	dense	than its surroundings									Low quality. No uses.	4aa8-28d7-1989-84ea
+a		hurricane		has			high	wind speeds											b0d6-ab23-63f7-1caf
+a		hurricane		has			large amounts	of rain											0cf9-0d32-4d85-4954
+		ice		is			cold	in temperature											d495-a1f3-29eb-04fe
+an		insect	usually	has a			small	size											afbd-d8f4-0c38-88c2
+an		insect		has			six	legs											4664-31ab-6299-53d0
+an		insulator		is			insulated												b360-3f95-0ae2-4cdd
+a		labybug 		has			a small 	size											f917-eb1c-9469-7341
+a		leaf		is			small	in size											bf0b-effc-65b2-b510
+a		leaf		is	often		green	in color											c904-3dbd-0d11-2f34
+		leather		is			resistant	to water											415e-bca0-9dfd-3594
+		leaves		are	sometimes		brown	in color											24c0-2337-1514-44da
+a		lemon		has			strong	odor											efa5-5736-022e-c233
+		lightning		is		very	a loud	sound										Low quality. No uses.	ba93-c047-6082-4e19
+		literacy		is			important												12e7-d986-fc31-5759
+a		mammal	usually	has				fur										Moved to PartOf	b5f5-6f17-bdac-392c
+	different	materials	usually	have			different	properties											10a8-eeb5-10c6-369a
+the		melting point of iron		is			2800F; 1538C; 1811K												00f1-21aa-fbc1-fe69
+the		melting point of oxygen		is			-361.8F; -218.8C; 54.4K												0ed7-324f-5c82-eb6c
+		mica		has a			nonmetallic	luster											f616-ce95-c8c4-6ece
+		mica		is 			black	in color											d1f4-8b8c-b9dc-80b5
+a		microorganism		is		very	small	in size											2faf-8dd2-50a0-d8c3
+a		mineral	usually	has			a crystal	structure											16b8-4881-cbed-004f
+a		mirror		has			a shiny	surface											733b-ce8a-669c-e222
+a		molecule		is		exceptionally	small	in size											0c8a-25b8-b161-eab3
+a	planet's 	moon		is			smaller		than that planet										3f74-37d4-8002-21b5
+the		moon		is		less	bright		than the sun										ee54-4b39-996f-44ce
+the		Moon		has			less	water; air	than Earth										dca8-aca7-a3a5-b57f
+the		Moon		has			a rocky	terrain											1769-4bec-1684-3665
+the		moon		is			the closest	celestial object	to the Earth									Moved to Prop-Rel-Dist	c6d8-7199-8e94-b928
+a		mountain		is			taller		than a hill										1cf5-4c61-5764-7fcb
+a		mountain		is			high	in altitude											26ec-d15c-d91b-6223
+a		mountain; hill		is			taller		than the land around it										8fcb-803a-e436-4aed
+		New York		is			closer	to the North Pole	than Florida										185a-1acc-1d39-1dc0
+		night		is			low	in light; in visibility											a659-d135-c6bf-7724
+the		night		has			cooler	temperatures	than the day										eed1-42ea-b787-ef59
+an		object		has				properties											d314-35e4-3e7a-1c39
+an		onion		has			a strong	odor											e719-7220-24f3-b304
+a	unicellular	organism		has			one	cell											d583-32a9-3187-f189
+a	multicellular	organism		has			more than one	cell											0f8a-4ede-42d6-258e
+an		part of an object		is			smaller		than the entire object										73b8-5c7f-43f4-65e2
+		perfume		has			a strong	odor											e54a-c405-f545-aabe
+a		pesticide		is	usually		very	poisonous	to insects										bfed-cc1c-57ae-63fe
+a		pesticide		is	infrequently			poisonous	to humans										5154-b206-93fe-b695
+a	flower's	petals	often	are			bright	in color							to	attract pollinators			f249-a34c-12c4-3aa1
+a		piece of an object		is			smaller	in size	than the whole object										3120-39a0-244c-c677
+a		pine needle		has			a strong	odor											084c-4642-aa65-3cd4
+a		plant cell		is			box-like	in shape											aab8-00f7-ef3f-7b5d
+		plants of the same species		have			the same	type of seed											7e9c-da3a-7c84-a251
+		plugging many appliances into one outlet		is			dangerous												25b0-7443-ab60-3f06
+the		freezing point of water; melting point of water		is			32F; 0C; 273K												cdc9-5a05-7bcd-607f
+the		boiling point of water		is			212F; 100C; 373K												a10a-a44b-4ab6-225f
+a		poison		is			very	poisonous											7fd0-cd82-3f0c-a3db
+a		pond		is			smaller; shallower		than a lake										44cb-f847-aac2-4fc0
+a	nonrenewable	resource		is			limited	in supply											2195-8880-3362-9682
+a	good	road		has a			smooth	surface											632c-7862-a8a3-b10e
+	sedimentary	rocks	often	have			different	colored	layers										4d68-51e5-594f-3689
+	sedimentary	rocks		are	often		light brown	in color											d7a7-05d2-6fba-4853
+		rod		is			cylindrical	in shape											926d-653a-d7c0-f415
+		rolling		is	usually		downward	in motion										Low quality.	0380-dbfd-3ecf-3cde
+		sand		has a			rough	surface											9c54-4fa8-ed73-dd28
+an	animal's	scales		are			small	in size											0897-4040-593e-dc4e
+		seeing small things		is			difficult												3685-6ff7-a08b-2d74
+the	continental	shelf		is			shallow												cf94-2565-141e-044f
+an	animal's	shell		is	usually		hard								for	protection		Moved to Prop-Hardness	b9a7-e1c0-9960-d0c6
+the		skin		is			the largest	organ	in the human body										615b-8fca-7958-d93e
+	 	snow		is			white	in color											4a3e-9dc2-ab24-8562
+		snow		is			cold												6791-5d18-6261-a488
+	low quality	soil		has			a small; a low	number of nutrients											9474-6b36-90b1-4a89
+	high quality; rich; good	soil		has			a high	number of nutrients											3dad-38fc-471b-0aed
+	infertile	soil		is			low	in quality											198b-a912-6c6c-5887
+	fertile	soil		is			high	in quality											b7eb-7a34-8336-c669
+		soil	usually	has				layers											0d52-7984-a05e-cc67
+		soil and sediment deposited by a river		are	usually		high; rich	in nutrients											fa7e-23e0-7d6f-6d2b
+the	longest	something		has			the greatest	length										Moved to AVR.	f1b7-af12-38b9-7f34
+the	shortest	something		has			the smallest; the least	length										Moved to AVR.	1742-b5f7-54d8-a071
+		something that contains air		is	usually		buoyant												7855-8a61-a859-05ab
+a		star		is	usually		larger		than a planet										2fa6-223b-ad1e-c3a8
+a		star		is		very	hot	in temperature											0ef0-7edc-e18e-a2fa
+		stars		are	some of the		hottest	objects											9ec4-cf33-e33d-d108
+		steam		is			hot	in temperature											329c-e273-405b-8f40
+a		string		is	usually		small	in diameter											509c-64c9-84f2-42ff
+a		string		is	usually		short	in length		with values between	2	and	1000	cm					0d5d-fcee-547a-e20c
+		sulfur		is			yellow	in color											2db1-ab10-ff6c-cc17
+		summer		has			hot	temperatures; weather											a6b9-8323-ab01-cfe7
+		summer		has			the most	sunlight											a0de-6074-3154-0632
+the		sun		is			average	in size	for a star in our galaxy										c463-e7fe-1eeb-840d
+the		sun		is			average	in temperature 	for a star in our galaxy										3530-0fd9-f523-ac33
+the		sun		is 			the largest	celestial body	in our solar system										b22e-a262-859f-aa35
+the		surface of the sun		is		extremely	hot	in temperature		with values as high as			20 000 000	° C					7e7e-5a6a-ed12-a2cc
+a		table		is			hard											Moved to Prop-Hardness	9c2f-2d3d-287e-0b65
+all	living	things		have			life cycles												a094-21de-59c0-f3ad
+a		thorn		is			sharp												c6cc-0b90-daf6-edc7
+		thunder		is			loud												c391-0831-1f0b-44bd
+a		tornado		has			high	wind speeds											5e06-8173-600d-592b
+a		tornado		has			circular	motion											2e3a-63c4-6119-00f5
+		trees of different species		have			differently	shaped	leaves										bfe6-d06b-d8bf-a2c1
+		tropical environments	usually	have 			warm	temperatures										Moved to PROP-ENVIRONMENTATTRIB	965d-32ef-32f1-71b5
+the		tundra		is		very	cold	in temperature										Moved to PROP-ENVIRONMENTATTRIB	2409-b366-fcf7-eb7b
+	identical	twins		have		all of the	same	inherited characteristics											e883-d258-546b-7207
+	two	objects		are	usually		different	in size											36a4-da66-ef5a-240d
+	different	types of soil		have			different	textures											023a-cb3f-47ab-8682
+		vanilla		has			a strong	odor											723a-5193-2766-0065
+	water	vapor		is			invisible												60af-59d3-7477-0429
+		water		is	often		brackish		in an estuary										1a35-de3e-b0e2-6c27
+	bad	weather		is			dangerous												7dd1-b271-7099-4e67
+a		western coral snake		is			poisonous												7f3b-9182-504a-0463
+		winter		has			cold	temperatures;weather											9939-7d13-b72f-2674
+		wood		is	usually		sturdy												614b-29b1-4fb6-991b
+		wood		has			a smooth	surface											8b0a-659e-85fd-42ce
+		wood		is			a strong	material											c7ff-4b62-295c-7800
+		wood		is			a light	material											73c5-2c1f-a941-c351
+a		worm		has			a tube-like	body 											5e45-653c-e6dc-6c95
+		spring		has			warm	temperatures; weather											c340-79fe-20a6-026a
+		coal		is			black	in color											7fb2-6558-b28c-87e5
+a		droplet		is a			small amount	of liquid											9d6f-0411-6644-656e

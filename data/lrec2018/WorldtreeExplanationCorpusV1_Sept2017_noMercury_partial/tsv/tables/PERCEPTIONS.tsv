@@ -1,0 +1,13 @@
+[FILL] to a/ to the	THING	[FILL] a	SCOPE	X	[FILL] of	LOWER	UNITS	[FILL] to	UPPER	UNITS	[FILL] is considered	MAGNITUDE	VALUE	ATTRIBUTE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+to a 	human	a	air; environment	temperature	of	-450	F	to	32	F	is considered	very	cold				1cda-9709-e82c-ee90
+to a 	human	a	air; environment	temperature	of	32	F	to	50	F	is considered		cold				6532-8ea6-ce14-1b62
+to a 	human	a	air; environment	temperature	of	50	F	to	70	F	is considered		cool				c9fe-e5b5-e32d-cebc
+to a 	human	a	air; environment	temperature	of	70	F	to	82	F	is considered		warm				a08d-a122-dacd-1674
+to a 	human	a	air; environment	temperature	of	82	F	to	95	F	is considered		hot				8eef-38db-1a56-c0fa
+to a 	human	a	air; environment	temperature	of	95	F	to	50000000	F	is considered	very	hot				fb09-6743-01f0-4330
+to a 	human	a	air; environment	temperature	of	-273	C	to	0	C	is considered	very	cold				1d2c-1a6b-4fa3-cea4
+to a 	human	a	air; environment	temperature	of	0	C	to	10	C	is considered		cold				2781-0c31-743d-6a09
+to a 	human	a	air; environment	temperature	of	10	C	to	21	C	is considered		cool				c082-b3c8-965b-c5ab
+to a 	human	a	air; environment	temperature	of	21	C	to	28	C	is considered		warm				0a57-0832-1b47-30d7
+to a 	human	a	air; environment	temperature	of	28	C	to	35	C	is considered		hot				a282-4420-bd3d-7094
+to a 	human	a	air; environment	temperature	of	35	C	to	50000000	C	is considered	very	hot				0626-3118-0b06-1fe0

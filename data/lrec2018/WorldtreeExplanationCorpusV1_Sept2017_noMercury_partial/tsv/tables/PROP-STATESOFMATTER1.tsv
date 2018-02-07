@@ -1,0 +1,4 @@
+MATERIAL NAME	[FILL] is in the	STATEOFMATTER	[FILL] state	[FILL] , called	FORM NAME	[FILL] ,	[FILL] for temperatures between	LOWER BOUND	[FILL] and	UPPER BOUND	UNITS	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+water	is in the	gas	state	, called	water vapor	,	for temperatures between	373; 212; 100	and	100000000000	K; F; C			e474-2a11-6e7b-ae8b
+water	is in the	liquid	state	, called	liquid water	,	for temperatures between	273; 32; 0	and	373; 212; 100	K; F; C			4a5d-ae1d-5ba6-8f8d
+water	is in the	solid	state	, called	ice	,	for temperatures between	0; -459; -273	and	273; 32; 0	K; F; C			4a5a-9115-28a9-b97b

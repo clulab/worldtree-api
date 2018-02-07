@@ -1,0 +1,5 @@
+PROCESS	[FILL] is when a wave	ACTION	OBJECT	[FILL] and travels in	DIRECTION	[FILL] direction	[FILL] relative to the angle of incidence	[SKIP] COMMENT	[SKIP] DEP	[SKIP] UID
+reflection	is when a wave	bounces off	a surface	and travels in the 	opposite	direction	relative to the angle of incidence			c2d6-e332-6199-27ac
+refraction	is when a wave	goes through; transmits through; passes through	a surface; a material; an object	and travels in a	different	direction	relative to the angle of incidence			bfe1-0c07-3b4a-cfc2
+absorbance	is when a wave	absorbs at; stops at	a surface							1c4c-073b-e376-e874
+transmitance	is when a wave	goes through; transmits through	a surface	and travels in the 	same	direction	relative to the angle of incidence			b995-043c-620d-e558

@@ -1,0 +1,10 @@
+OBJECT/AGENT	[FILL] is a	KIND OF CONDUCTIVITY	CONDUCTOR/INSULATOR	QUANTITY/RANGE	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+rubber	is an	electrical; electrical energy; thermal; thermal energy	insulator					3bc7-7251-4566-95f7
+wood	is an	electrical; electrical energy; thermal energy	insulator					8f3b-ed0c-5dae-f30e
+metal	is an 	electrical; electrical energy	conductor					23bf-e586-9387-c883
+metal	is a	thermal; thermal energy	conductor					0439-8c06-da63-6721
+wax	is an	electrical; electrical energy	insulator					acae-d127-8de0-100d
+brick	is an	electrical; electrical energy	insulator					c4f6-ee5c-204a-6f07
+water	is an	electrical; electric energy; thermal; thermal energy	conductor					86c1-8ea4-6a5c-6283
+nervous system	is an	electrical; electric	conductor					f64e-1b60-6e48-9b5a
+down feathers	are a	thermal; thermal energy	insulator					718f-36ed-de51-9dfb

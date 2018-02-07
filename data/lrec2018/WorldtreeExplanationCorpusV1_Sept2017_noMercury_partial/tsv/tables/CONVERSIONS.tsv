@@ -1,0 +1,4 @@
+QUANTITY	UNIT	[FILL] is equal to	QUANTITY	UNIT	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+one	week	is equal to	seven	days			a9b2-1d5b-952e-8a8c
+one	year	is equal to	365	days			4adf-935f-2a7e-de97
+one	day	is equal to	24	hours			7bde-6b21-5c29-4e15

@@ -1,0 +1,76 @@
+[FILL] a	OBJECT/AGENT	QUANTIFIER	[FILL] contains	QUANTITY/RANGE	WHAT IT CONTAINS	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+	acidic rainwater		contains		acid								1632-1fa8-8c28-5669
+	fruit		contains		seeds								ef49-c852-8727-d2dd
+an	animal body		contains		arteries; veins								f4b3-b8dc-89a2-0c84
+	animal waste		contains		nitrogen								391c-4df9-175e-987e
+	arctic environment		covered in 		snow							Moved to Prop-EnvironmentAttrib	4f52-2d1c-8911-a996
+the	atmosphere		contains		gases; liquids; solids								f1c6-1bc9-dda0-fc31
+a	balloon		contains		gas								b859-0a35-7eea-8222
+a	beach ball		contains		gas								0b3c-fc05-1642-9a08
+a	berry		contains		seeds								7f04-fd94-0d22-9ee4
+a	bicycle		contains		levers; wheels and axles; pulleys; screws								f684-f2bb-f419-a1f1
+	bladders		contain		urine								8334-8d96-8065-aa1c
+a	body of water		contains		water								b927-5436-1d17-c396
+	breath		contains		water vapor								ece6-3b70-33f4-3b98
+a	bubble		contains		gas								a0e7-290b-5de1-5648
+a	carbonated beverage		contains		dissolved carbon dioxide								3145-65d7-0fa3-5857
+a	channel		contains		moving water								65d2-8c35-9f57-0830
+a	chloroplast		contains		chlorophyll								e856-9caa-346e-b925
+	cold environments		contain	few	organisms								d0ac-f4c5-d526-2831
+a	constellation		contains		stars								db62-4c2e-6a9d-8b12
+a	container of water		contains		water								055f-62da-6f0f-9be5
+a	desert environment		contains	very little	food								9bf8-7511-a722-e068
+	dry environments		contain	little	water								7376-0d97-1227-bd6a
+the	Earth		contains	many	ecosystems								49a0-acc7-6fce-867f
+an	ecosystem		contains	a large community of; large numbers of	living organisms					in a particular place			7a75-f74f-4c98-0f01
+an	ecosystem		contains		nonliving things								8635-6b8d-0003-dc16
+an	electric car		contains an		electric motor								9d1d-a854-c8ac-a4db
+an	electromagnet		contains		a wire; cylindrical ferrous metal								f2e1-4ca1-4bfd-cbce
+	ferrous metals		contain		iron								7114-deda-e0a0-d3e9
+	fertilizer		contains		chemicals								a288-7e08-49cc-7661
+a	field		contains		soil								2cc1-d93b-cea8-3b51
+a	flour		contains		pollen	for	sexual reproduction						5505-0403-08c0-3571
+a	food		contains		nutrients	for	living things						Good
+	food		contains		carbohydrates								d11d-a195-7042-efcc
+a	forest		contains 		plants; trees								a54a-a04c-71eb-ba0a
+a	glass		contains		water								d9da-e54d-cd61-36aa
+	grass	does not	contain		wood								1d29-f8d7-5834-aa6c
+a	kit		usually contains		materials	for	assembling something						f8d3-af6e-2588-10ed
+the	life cycle		contains		the stages					between birth and death		No uses.	2d20-2234-7bcb-52be
+a	limb	often	contains		bones								a237-4e63-f4c8-5e35
+the	lunar surface; moon's surface		contains	many	craters								c13a-75d9-afb9-ad21
+a	magnet		contains a		north pole; south pole								6c20-4dbe-71da-0428
+the	moon	does not	contain		air; water								982f-f6c0-b9e8-e203
+the 	moon's surface		contains		highlands								893f-916b-8ee1-9b98
+the 	moon's surface		contains		flat areas 								3583-4f7d-77df-e26c
+a	multicellular organism		contains	more than one	cell								fd39-82bf-ca1d-2605
+the	muscular system		contains		muscles								0685-babe-a257-9fbe
+a	natural ecosystem		contains		native living things					only			9ed1-18d0-0ac0-c299
+the	nervous system		contains		nerves								4695-199f-eeab-4611
+the	ocean		contains	large amounts of	salt water								a67b-a673-e85b-6310
+an	ocean		contains		waves								3836-b248-bdff-be59
+	oceans		contains	most of 	earth's water								c0ad-4856-2d41-4fa9
+	pencil lead		contains		mineral graphite								73ef-3026-389a-20a2
+a	plant cell		contains		chloroplasts								4e64-cd5b-9e82-e218
+a	plant stem		contains a		system of tubes	for	transporting water and nutrients			to other parts of the plant			d534-dac5-f81f-1e26
+a	pumpkin		contains		seeds								c0ed-56a6-3f1e-b66c
+	refrigerators		contain		harmful chemicals								89d4-504e-26ea-25da
+	rocks	often	contain	large amounts of	metal								f853-8175-3c98-28c5
+	rocks	sometimes	contain		aluminum								5c99-06b6-7e1e-f150
+	rocks	sometimes	contain		iron								49e4-dd5f-a48b-76cc
+	room		contains		walls								1c37-9df2-350b-3c5a
+	runoff		contains		chemicals; fertilizer; pollutants; pesticides					from cropland			6029-2646-fb11-8753
+	soil		contains		nutrients	for	plants						ddcc-3b71-b14e-97d1
+	soil		contains		water; humus; weathered rocks								24c1-678f-d0a3-2af7
+the	solar system		contains the		moon								b776-8099-262d-4b06
+	sunlight		contains		ultraviolet light								f1ae-4d95-7b44-91f9
+the	surface of the Earth		contains		mountains								d9ac-bf1e-2efc-8abb
+the	surface of the Moon		contains		mountains								d0ac-a3a5-dadc-df10
+a	swimming pool		contains		water								4a43-1f50-d613-de3e
+an	tennis ball		contains		air								a34e-4c17-742b-c689
+the	top layer of soil		contains	the most	nutrients								0738-f2c4-03a7-3a8b
+a	trashcan		contains		trash; garbage; waste								7101-b26e-c0b0-1347
+a	tree		contains		wood								bcc7-8811-5dcd-6e0f
+	wasp's stinger		contains		poison								1177-e0d7-4358-0204
+	water		contains		dissolved oxygen								f32e-0424-d7c1-e558
+	zoo exhibits	should	contain	all	things required by the animals living in those exhibits								adb3-8ad7-befa-74c9

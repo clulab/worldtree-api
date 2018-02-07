@@ -1,0 +1,3 @@
+[FILL] a	OBJECT	[FILL] is	RECYCLABLE;NON-RECYCLABLE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+	paper	is	recyclable			0629-5e75-b18c-0675
+	aluminum	is	recyclable			0e9a-5a09-0c3a-2a9a

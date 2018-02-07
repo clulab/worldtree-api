@@ -1,0 +1,28 @@
+[FILL] the/a 	ADJ/QUANTIFIER	INSTANCE	[FILL] is	QUANTIFIER	[FILL] a/the	ADJ	CLASS	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+an		element	is	not	an		alloy				438c-30e7-05f9-eec9
+a		decomposer	is	usually	a		bacterium or fungus				4189-af64-dc68-aab7
+the		sun	is	not	a		star	in the night sky			a0f5-8469-7346-63fc
+		preferences	are	generally		learned	characteristics			Moved to Prop-Inherited-Learned	2476-b5ea-0908-5ce3
+a		bird	is	sometimes	a		predator			Moved to PREDATOR-PREY	b5b3-6042-bd97-09e5
+		plastic	is	usually	an		electrical insulator				89bb-1727-975b-849d
+a		baby	is		the		offspring	of a parent		Moved to Synonymy	274e-7aef-1e26-6b3c
+		planting trees	is	sometimes	a	human	activity				ca00-8e56-17f5-9665
+	many	animals	are				herbivores				9842-70ea-d82e-01bf
+		appearance	is	sometimes	a	physical	property				2b97-8bcf-ad07-0e9e
+	some	minerals	are	sometimes			nutrients				ca61-050e-2c77-6cda
+		salamanders	are	sometimes		aquatic	animals				c83e-0fdf-7c74-d0f0
+a		caterpillar	is		the	immature form of a	butterfly				b29b-6e23-97f8-0be7
+a		butterfly	is		the	mature form of a; adult form of a	caterpillar				457a-8660-d1f5-e6ae
+a		tadpole	is		the	immature form of a	frog				b356-f5e8-262c-5157
+a		frog	is		the	mature form of a; adult form of a	tadpole				6fd9-d55b-fc58-c9fb
+a		metal	is	usually	a		solid				6b13-b027-dc64-b855
+a		rock	is	usually	a		solid				9dce-54ac-55cf-f1ed
+		chemicals	can be				pollutants				e809-4443-23c0-ee01
+		tea	is	usually		hot; warm					2bf5-43b2-828d-7991
+a		renewable resource	can be			renewed				Moved to Affordances	4873-7147-d031-1fc5
+a		property	can be		a	factor				Moved to Synonymy	5787-d0e0-7a2c-abe2
+a		passenger in a car	is	usually	a		human				2613-ef22-d8a2-96c6
+	artificial	turf	is		a	fake	grass				31c4-3218-63c1-4d9b
+a		frog	is		an	adult form of a	frog				42ce-3b05-116d-407e
+a		kitten	is		a	young; baby	cat				36ae-d6e7-a33f-027a
+a		puppy	is		a	young; baby	dog				7ba5-ac67-433e-b356

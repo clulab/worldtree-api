@@ -1,0 +1,82 @@
+[FILL] a	ADJ	AGENT	ACTION	OBJECT/PATIENT	QUALIFIER	VERB (sourceof, provide, etc)	WHAT IT PROVIDES	[FILL] called	NAME	[FILL] to/for	AGENT IT PROVIDES THING TO	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+a		battery				is a source of	electrical energy													c6c3-2053-aaf7-86fe
+a		battery				is a source of	electricity												Duplicate. All uses replaced.	a952-ae30-5723-87db
+a		body of water				is a source of	water													9a28-67a2-0019-9ec2
+			burning	gasoline; oil		is a source of	pollution													86ae-9fcc-40d0-77ab
+a		candle				is a source of	light									when it is burned				887f-3af4-3e07-807d
+a		car engine				is a source of	heat													4aa8-45fb-6589-f574
+a		cell				produces	carbon dioxide					for	waste							beb8-cabb-ae24-b0ab
+the		cell membrane				provides	support; protection			for	a cell									9315-2889-5172-d68d
+a 		cell wall				provides	support; protection; shape; structure			for 	a plant cell									3254-8f73-9122-fec8
+		clouds				produce	precipitation													db52-3ce3-5e7f-1953
+		clouds				produce	rain													d005-63fc-d3da-45e2
+		coal mine				is a source of	coal									under the ground				ef7d-a3f3-6200-ea1d
+a	complete	electrical circuit				is a source of 	electrical energy													647c-26b4-292b-4c96
+		dairy				is a source of	Vitamin D													5e8b-5290-a9f9-d771
+	dead	organisms				are the source of	nutrients			for	decomposers									779a-4a82-66a1-2ce6
+		electromagnets				generate	magnetic fields 													f662-7035-f75b-8046
+		fertilizers				are a source of	pollution													fb74-d393-266e-0f88
+		fire				gives off	light; heat; smoke													891f-4f5c-91a2-bd31
+a		flashlight				emits	light													0e96-d216-e3de-ce65
+a		flower				is a source of	nectar													b03f-5050-0795-6e43
+a		flower				produces	pollen and seeds													1788-1cd3-6a0a-82f2
+		flowers				are a source of	fruit													3301-3fc5-5e6e-a711
+		food			can	be a source of	an odor													67c1-b3d2-faa6-6768
+		food				is a source of	energy			for	animals; plants									5753-2812-04c2-af70
+		fuel				is a source of	energy													623f-9df0-d179-3917
+	green	plants				provide	food			for	themselves; animals; consumers			by	performing photosynthesis					694b-d9ec-8c65-5a6a
+	grey	clouds				are a source of	precipitation													20a9-322c-b21a-3d54
+a		hand dryer				produces	heat													2e43-a74f-bca2-5d7f
+a		hot plate				is a source of	heat													945f-acde-29f3-d573
+a	hot	substance				is a source of	heat													bdf8-fbda-ff94-54f5
+an		landfill				is a source of	pollution													3094-7527-5f14-50d9
+		lightning				is the source of	thunder													8f2c-46a2-91be-8eae
+	many	vehicles				emit	pollution									into the air				8e30-5411-1171-26fa
+		motion				is a source of	kinetic energy									in an object				9f23-854a-7dc0-c22e
+		musical instruments				make	sound									when they are played				f6ad-39ca-e8e1-b1d7
+		natural gas				is a source of	heat							by	burning					c491-9f0f-8947-cd1b
+		nature				is the source of	natural resources													782c-5d2a-36fe-5676
+		nutrients				are a source of	energy			for	living things									31c6-d095-6939-21a9
+an		ocean				is a source of	heat and moisture			for	a hurricane									2030-ad1d-a83f-6581
+		oil				is a source of	energy													124d-89c9-c195-2ea9
+		oil				is a source of	gasoline													8507-acd7-51e8-31a1
+an		organism				is a source of	organic material													964c-a4cf-22a6-5f49
+an		organism				is a source of	organic matter													ddb4-26f4-5edb-1f07
+an		organism	breaking down	sugar		is a source of	carbon dioxide; water													5c21-873c-7d14-83ef
+an		oven				is a source of	heat													926d-355a-9b2c-c5d1
+		photosynthesis				is a source of; makes	food; energy			for the	plant			by	converting carbon dioxide, water, and sunlight into carbohydrates					a9fc-ec58-9496-d635
+		plants				are a source of	biofuel													4915-3ab4-00ec-853a
+		plants				are a source of	fibers													d36c-a9f0-2f37-c0e1
+		plants				are the source of	fruit													cfb3-f3ae-f0d8-b6ca
+		plants				are a source of	oxygen							through	photosynthesis					a908-944e-04aa-71bc
+		plants				are the source of	spices													bef6-e915-46ee-d0dd
+		pollution				is a source of	pollutants													a7fc-71a9-609d-ae33
+		processes			sometimes	produce	waste products													ba22-866b-15eb-3d9a
+a		producer				is a source of	energy			for	consumers									b19d-b086-7090-2115
+a		radiator				is a source of	heat													41f9-05ef-9272-1100
+		rain				is a source of	water													e73f-198c-a896-b428
+		reproduction				produces	offspring													a6ff-574e-11c6-a86c
+		rocks				are a source of	shelter			for	small animals					in an environment				a08d-16c5-c9ee-2af5
+a		shower				is a source of	hot water			for	washing									2c77-4f27-a432-599c
+			sitting on	something		provides	warmth			to	that something									e063-a513-3c32-87b1
+a	hot; warm	something				is a source of	heat													55b7-97a0-0554-156d
+a		source of something				supplies	that something													1b18-2bc7-5809-6490
+a		squid				produces	thrust							by	pushing water out of its body					1631-78fe-2811-ffb9
+a		star				produces	light and heat													8369-8669-0725-2c00
+a		star				is a source of	light; light energy							through	nuclear reactions					d567-d49e-293e-95bf
+a		stem				is a source of	support			for	a plant									317e-c441-1f21-0244
+a		stove				generates	heat					for	cooking			usually				d59b-bac8-e191-05be
+the		sun				is the source of	energy			for	life					on Earth				2d69-ee53-599f-9438
+the		sun				is a source of	light; light energy	called	sunlight											a538-175f-9223-d117
+the		sun				is a source of	radiation; heat	called	sunlight											d247-b029-3aab-0950
+the		sun				is the source of	solar energy	called sunlight												1ed3-919d-4a4c-1be7
+the		sun 				is the source of	energy			for	physical cycles					on Earth				bbf1-262a-c774-3f47
+		sunlight				produces	heat													2889-3edc-095a-6d6b
+		tea			sometimes	is a source of	heat												No uses.	c09a-e652-5f1c-1517
+a		tree				is a source of	shelter; food			for	birds; animals					in an ecosystem				b02a-dae3-93ce-c2b7
+		trees				are a source of	paper													228c-e968-0417-3f8d
+a		trunk				is a source of	support			for	a tree									9633-63de-89db-ce0e
+			vibrating	matter	can	produce	sound													cf64-935e-ea78-35a4
+		weather				is a source of	wind and water			for the	weathering process									2ec3-057c-c9d8-a7c4
+		wind				is a source of	energy													185e-29ab-4975-8d8b
+a		producer				is a source of	sugar									in an ecosystem				35d8-b64d-a726-96c8

@@ -1,0 +1,184 @@
+PROCESS_NAME	[FILL] means	CONDITION_AGENT/OBJECT	CONDITION_VERB	CONDITION_PATIENT	DURATION	SCOPE	QUALIFIER (rarely/sometimes/usually/always)	[FILL] causes	RESULT_AGENT	RESULT_VERB	RESULT_PATIENT	DURATION	[FILL] for	FOR/PURPOSE	QUANTITY/RANGE	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+		acid					can	cause	chemical change										8224-9b5f-01f9-ba94
+		bacteria					sometimes	cause	disease										efa9-d54e-94fb-7f4e
+		bacteria					can	cause	people	to become ill									72a4-c6f3-e68c-7836
+		bacteria; viruses						cause	food poisoning										5611-cf44-6cd6-2aed
+		buildings	collapsing				often	cause	death										3762-b90b-1f83-4068
+		chemical	splashing				can	cause		harm	to humans; to the eyes								891a-752f-b9c8-25e1
+		chemical reactions						cause	chemical change										0f0d-2cc5-fcc1-3c1f
+		chemical reactions						cause	new substances; different substances	to form									3dca-07f2-1404-d404
+		cold temperatures; cool temperatures						cause	animals	to shiver									34e8-e10d-e464-de1f
+		contact between rocks			over long periods of time			causes	rocks	to smooth									b3f4-9bbd-487f-8643
+		crops; farming						cause	nutrients in the soil	to decrease									7dcd-a12c-54b1-a787
+		cycles of	freezing and thawing	water				cause		ice wedging									4730-e0f3-6d20-0e0e
+		drought					may	cause	wildfires										a603-7574-10cf-966e
+	the	Earth	being tilted	on its axis				causes	ones side of the Earth; one hemisphere	to receive	less energy from the Sun					than the other side			31d9-98d7-6a10-9053
+	the	Earth	being tilted	on its axis				causes	seasons										0b7b-cf23-e64f-4200
+		Earth	orbiting	the Sun				causes	seasons	to change									f59f-261f-52a9-1771
+	the	Earth	revolving	around the Sun				causes the	seasons	to change; to occur	on its axis								1cca-1ac1-5bea-5cf6
+	the	Earth	revolving			around the sun		causes	stars	to appear 	in different areas in the sky	at different times of year							b018-4375-d391-cb98
+	the	Earth	rotating	on its axis				causes 	stars	to appear to move	across the sky	at night							49f5-727d-92b5-03aa
+	the	Earth	rotating	on its axis				causes the	sun	to appear to move	across the sky	during the day							73fa-1e22-26a8-1a7c
+		Earth's tilt				on its axis		causes	seasons	to change; to occur									66df-2200-f730-17c3
+	an	earthquake						causes the	ground	to shake									457d-1a26-5f9e-04e6
+		earthquakes	folding	rock layers				causes	older rock	to be on top of	younger rock								3bbf-bcf5-c798-f7e7
+		earthquakes						cause	rock layers	to fold						on top of each other			72a7-76e4-7f5d-03ab
+		electrical current	running through	a wire				causes	that wire	to heat up; to become warm									3e57-14d2-b5aa-9c07
+		electricity						causes	less pollution							than gasoline			c560-8c82-4151-235c
+		electrocution						causes	harm		to an organism								7409-4a52-a23a-0c5c
+		erosion						causes	deposition										7e2e-e161-5c98-444e
+		erosion						causes a	river	to become	deeper and wider								7c09-899f-1401-2b64
+		erosion					usually	causes		harm	to the environment								a12e-c34a-ab3d-d601
+		erosion; storms					can	cause a	landslide										ad27-ad14-2ed7-2b55
+		evaporation						causes	amount of water	to decrease									cdb8-46e7-0df7-0a20
+		explosions					can	cause		harm	to an organism								774b-6b2d-30c6-71c0
+		extreme temperatures						cause an	organism's energy levels	to decrease									0025-a087-5991-7f66
+		fire						causes		burning									4dc5-13bf-3c46-af74
+		fire						causes		harm	to trees; to forests; to living things								8341-4d61-aa1c-ffbd
+	a	force	acting	on an object		in the opposite direction that the object is moving	can	cause	that object's speed	to decrease						in a forward motion			8ee7-24ec-255f-d9fe
+	a	force	continually acting	on an object		in the same direction that the object is moving	can	cause	that object's speed	to increase						in a forward motion			897e-080a-cbfa-6224
+		force						causes the	speed of an object	to increase; to decrease									d10e-17d2-b2db-e326
+		friction						causes	speed	to decrease									965e-d62d-3e68-c22c
+		friction						causes the	speed of an object	to decrease									fd7f-e7b7-79fa-6ff9
+		friction						causes the	temperature of an object	to increase									26cb-7582-a17c-a0d6
+	a	glacier						causes	mechanical weathering										2f61-1e65-c812-3feb
+		glaciers						cause	scratches							in rocks			c323-6873-c26d-4c0b
+		glass; objects made of glass						cause	refraction							of light			6241-2463-513a-73d8
+		gravity						causes	orbits										828a-1af1-a7bd-61e8
+		gravity;gravitational force						causes	objects that have mass; substances	to be pulled down; to fall						on a planet			9773-5df7-84db-74b3
+		habitat destruction						causes	animals	to move			to	find shelter		in another habitat			9fa0-9f6a-3b04-00f8
+		heat				from inside the Earth		causes	volcanoes									Low quality. No uses remaining	da7d-7594-1856-53a9
+		heavy rains						cause		flooding									6757-76c5-8bf9-33b8
+		high pressure systems						cause	clear weather										d4b6-eb95-4bc2-c80f
+		high temperatures					can	cause an	object	to combust									8309-d5c8-048c-7198
+		human waste					often	causes		harm	to an environment								b7b3-2705-8edd-318a
+		humans	building	homes		in an ecosystem; in an environment		causes	that ecosystem; that environment	to change									4533-919e-b56d-820b
+		humans	changing	an environment				causes	animal populations	to decrease						in that environment			ef93-3430-85b9-d8f0
+		humans	changing	an environment			sometimes	causes	that environment	to be destroyed									305d-ed38-7824-6cc0
+		humans	changing	animal habitats			usually	causes		harm	to those animals								7828-f424-7e86-a420
+		humans	discarding	waste		in an environment		causes	harm		to that environment								330a-482c-2f0d-0d81
+		humans	moving	into an environment			usually	causes	native species	to lose	their habitats								bebb-ed5a-4b7a-235d
+		humans						cause		pollution									d951-095d-6862-917c
+		hurricanes						cause		harm	to living things; to buildings								ba16-9fd4-d675-b0fd
+ice wedging	is when	ice						causes	rocks	to crack						by expanding in openings			a7ea-1134-ae5c-b085
+		lack of food						causes	starvation										2562-da3c-5a61-e440
+		lightning					can	cause a	forest fire										dc88-39d4-99eb-b07d
+		lightning						causes	thunder										0c89-cc86-5c75-810c
+		low pressure systems						cause		precipitation									e228-46ac-0cee-0559
+		magnetism					can	cause	objects	to repel	each other								b210-62f3-af10-197e
+	the	mass of a planet						causes the	pull of gravity							on that planet			4181-3ee0-c35b-5e30
+		matter; molecules	vibrating				can	cause	sound										6191-80db-d5e3-b23e
+		medicine					can	cause	people	to have	bad reactions								159e-ed52-d9e3-76ed
+		microorganisms						cause	food	to spoil									123c-6e70-ccd0-1f3d
+	the	moon	revolving around; orbiting	the Earth				causes the	phases of the moon										e70b-e515-02a3-8958
+		natural disasters					can	cause	animals	to leave	an environment								2e42-1ae7-02c4-eb40
+		natural events					usually	cause	changes		to Earth's surface								aeea-2fd9-666a-930d
+		nuclear reactions				in stars		causes	stars	to produce	light; energy; nuclear energy								9bc8-f1da-ee78-f8e5
+	an	object	acting	against a force			can	cause	that object	to move	in the opposite direction								4916-08e1-51ef-8c63
+	an	object	being pushed	across another object				causes	their surfaces	to move	against each other								967c-c4d5-4455-0e4b
+	an	object	blocking	light				causes a	shadow										5226-28ef-2ae2-0f6e
+	an	object	moving	from a cool place to a warm place				causes	the object's temperature	to increase									3c4c-8c33-8499-fc99
+		octopuses	releasing	ink		into the water		causes	predators	to have difficulty seeing	the octopus								c135-b400-0c92-8c7b
+		offshore oil platforms					might	cause	oil	to leak into	the water								8cf3-b5ef-e8a7-1202
+		pasteurization						causes	bacteria in milk	to be reduced									95aa-eaf8-1c9b-066b
+	a	planet	rotating					causes	cycles of day and night							on that planet			7959-4428-d766-0494
+		poison						causes		harm	to living things; organisms								ba3c-7ba2-c37a-cb76
+		rain						causes		erosion 									82b3-4291-31b5-2502
+		reflective obejcts						cause	objects	to appear	backwards								b493-5d63-c5bb-8ab2
+		refraction						causes	something	to appear; to look	different								052f-26fc-455b-c202
+		rocks; soil; materials	interacting with	wind; moving water	over long periods of time			causes		weathering									02f0-b4ba-41d8-0483
+	a	rubber band	snapping					causes the	particles in the rubber band	to vibrate									1746-191d-7cbb-69c4
+		seasons						cause	change							to the environment			f5ca-b95b-fd83-47d8
+		seeds	sprouting					causes	plants	to grow									3ed4-657f-7748-220b
+	the	slope				of the land		causes a	river	to flow						in a particular direction			5420-e4ea-f9e9-357a
+		soil loss						causes an	area	decrease	in size								3d6c-d91c-8bd2-a3ca
+		soil loss						causes	grooves							in soil			4e04-6bfe-af71-63de
+		something dangerous					can	cause	harm										70a1-9e7d-18aa-7495
+polluting	means	something harmful; something poisonous	is added	to an environment				causing		harm	to the environment								d1ac-a510-1958-0100
+		storms						cause		harm								Low quality. No uses. 	2598-bfbd-71a2-3e8b
+		storms;rain						cause	bodies of water	to increase	amount of water they contain								c1bf-db54-7c40-a799
+		sugar						causes	food	to taste	sweet								38f5-e7de-0b18-696a
+	the	sun	rising and setting					causes	cycles of day and night										aacf-3442-3b46-b964
+	the	sun						causes	water	to evaporate more quickly	by adding heat								824e-1bf6-29b5-9624
+		sunlight and rain					can	cause a	rainbow										5a4c-b508-a1b7-4639
+		tectonic plates	being pushed together					causes	earthquakes										2b70-ecb7-15fb-441c
+		temperature	changing				does not	cause	mass	to change									6547-5706-4e4b-6323
+		temperature	changing				can	cause	phase changes										f45b-e36a-7934-50a5
+		too much water					can	cause a	plant	to not grow									aad8-afa8-11f3-d7d7
+	the	vanes	rotating			in an electric fan		causes	air	to move									c03d-b40e-6fdb-52e0
+		vinegar					can	cause	harm	to the eyes									e216-7a5d-1433-b719
+		volcano	erupting				usually	causes	new land	to form						by lava cooling		Moved to FormedBy	b37b-5dfc-64d8-3abb
+	a	warm front						causes	cloudy and rainy weather										9436-c8e4-c0e1-914f
+		water						causes	refraction							of light			42ae-c748-dc98-8669
+		water						causes the	most soil and rock erosion										0d14-c53e-d23c-17d9
+		water vapor	condensing			in clouds		causes	rain										c43e-7b5f-7d4e-0bdf
+		water vapor	cooling					causes	that water vapor	to condense									f461-ef68-36cf-0f91
+		wind						causes	erosion										562c-c77b-8ec7-4ab5
+		wind and rain; storms						cause	erosion										a4ff-959e-a3ef-5a67
+			absorbing	sunlight				causes	objects	to heat									dcbe-9523-4529-c54e
+			adding	heat		to an object	sometimes	causes	chemical reactions										b124-8e3c-f8ec-e3c5
+			attracting	something		to a location		causes	that something 	to be near	that location								4029-a596-3625-db81
+			being	distracted		while driving	can	cause	people	to crash	their car								f535-7c05-1612-0e99
+			being exposed to	wind; water; animals; heat			can	cause	erosion							of soil; of rocks			ddd5-9774-f7cb-82f6
+			blowing	air		into a whistle		causes	air	to vibrate						inside the whistle			8dea-02f7-6e65-1e16
+			braking				can	cause		skidding									4a43-f8d5-b9e8-39c8
+			breaking apart	rocks			can	cause	debris										be59-b752-2bd5-629d
+			burning	a living thing			usually	causes	harm		to that living thing								0e47-2c50-6be2-5375
+			changes	in an environment				cause	animals; plants	to adapt			to	survive					724f-c315-2d06-364b
+			combining	two substances			chemically	causes	chemical reactions										37e1-5b9e-00a1-5e21
+			completing	a circuit				causes	electricity; electric current	to flow 						through that circuit			e215-a276-5a10-38a1
+			condensing					causes a	liquid	to form									2fe0-4073-c775-8925
+			cooking					causes a	chemical reaction										69b4-687c-33bd-2f27
+			cracking	something			may	cause	that something 	to break apart									7007-3239-2cab-e863
+			crashing	a car				causes		harm	to a person								66d6-b4c3-4854-2197
+			cutting down	trees		in a forest		causes the	number of trees	to decrease						in that forest			521a-5b49-3683-2b01
+			damming	a river			can	cause a	lake	to form									e361-414d-74d6-ee0e
+			debris				can	cause		harm	to an organism								166f-d4e8-1bed-b031
+	a		decrease	in visibility		while driving	can	cause	people	to crash	their car								13f7-a730-e457-60bf
+			destroying	something				causes		harm	to that something								07c1-be64-120e-f54b
+			dissolving	a substance		in water		causes the	water	to taste	like that substance								735a-963c-130f-059c
+			dropping	an object		into water		causes	vibrations							in the water			bee4-7433-0096-8f52
+			dropping	something				causes	that something	to fall									3d1b-c195-8dca-4587
+			eating	a monarch butterfly				causes a	predator	to become	sick								c130-54eb-43da-154f
+			exercising					causes the	body	to become	stronger								3449-56cb-7bf5-72be
+			folding	an object				causes	that object	to change	shape								522b-1df0-7e74-363f
+			freezing					causes a	solid	to form									a1a8-b11b-e127-8797
+			harming	an animal species				causes	that animal's population	to decrease									458c-0ba5-e5dd-00b8
+			harming	an environment				causes		harm	to the living things; to the organisms					in that environment			fcf3-cad2-b199-4da1
+			harming	an organism			can	cause	that organism	to die									ebf1-9fe9-324d-b205
+killing	means		harming	something				causing		death									6a6c-3183-436e-898b
+			heating	salt water				causes	the water	to evaporate						while the salt remains		Low quality. No uses.	d1f5-66f7-d352-a42b
+			hitting	an object				causes the	particles in that object	to vibrate									d4b3-702a-31e7-3f17
+			hitting	something				causes		harm	to that something								ff14-fa19-a544-0cc4
+			learning; studying	information				causes	one	to know	that information								2b90-3d2b-39c8-bd3b
+			lighting	a candle				causes	that candle	to burn									615c-9023-3957-0501
+			living	in an environment				causes an	organism	to adapt	to that environment								3605-d626-ee3a-e15f
+			looking directly	at an eclipse of the Sun				causes		harm	to the eyes								7c08-d816-b5ae-fb99
+			mixing	baking soda; water				causes an	explosion										eeeb-2d28-4390-8610
+			operating	a remote-control toy				causes	that toy	to move									b332-6003-5331-6516
+			painting	an object			a color	causes	that object	to be	that color								10c6-c21e-e54b-036e
+			playing	music				causes	sound	to be produced									7a4e-445e-25de-5994
+			plucking; strumming	a string			can	cause	that string	to vibrate									5347-48a6-e352-a6f8
+			pouring	water		onto soil		causes	that soil	to wash away									b253-7987-ac7d-04e6
+			preventing	the transfer of heat from an organims's body				causes	that organism	to keep warm									7560-5c0d-bc49-026c
+			producing	thrust				causes	something; an animal; an object	to move									cf16-244b-9e54-f4ee
+			pushing	on the pedals		of a bike		cause	that bike	to move									afe8-fef7-01ec-6fbb
+			pushing	something			can	cause	that something 	to move									4048-519e-258b-fc12
+			refracting	sunlight; light				causes	sunlight; light	to split	into different colors								b743-7732-00bc-dc06
+			removing	an inhibitor of a process				causes	that process										edb7-8723-f5ce-c5d8
+			removing	dead organisms		from an ecosystem		causes	available nutrients	to be removed						from that ecosystem			30cb-93b0-59c3-f2e0
+			riding	a bike			does not	cause	pollution										b44c-810f-461c-c314
+			scraping	an object			may	cause	small particles	to break off of	that object								0887-9c82-3ec7-f2d7
+			sending	a fluid; a liquid		through a channel; through a pipe		causes	that fluid; that liquid	to flow						through that channel; through that pipe			97cf-2a2b-0019-aa66
+			sending	electricity		through a conductor		causes	electricity; electric current	to flow						through that conductor			d12e-268f-1b21-6879
+			sharpening	an object				causes	that object	to change	shape								5db0-e85b-34b3-b679
+			skidding					causes	friction										0781-1abe-a590-378c
+			skidding					causes	speed	to decrease									1af6-b1e2-ade4-b6af
+			smoking					causes		direct damage	to the lungs								7bc6-352d-2d67-1ca0
+			tapping	two objects		together		causes the	particles in those objects	to vibrate									e7b4-d306-73b9-3098
+			the gravitational pull	of the Moon on Earth's oceans				causes the	tides										ddca-37d6-9e7b-d216
+			uneven heating	of the Earth's surface				cause	wind										cbc2-6249-b853-4e4b
+			uneven heating					causes	convection										89a0-8211-85bb-2905
+			using	a car				causes	pollution										eee7-145c-8532-ac27
+			using	cell phones			can	cause	people	to become	distracted								1368-7e6c-b1cf-28db
+			using	less resources			usually	causes	money	to be saved									d55d-1df7-94a7-708c

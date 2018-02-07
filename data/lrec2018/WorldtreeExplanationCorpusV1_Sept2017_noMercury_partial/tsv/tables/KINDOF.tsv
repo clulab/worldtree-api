@@ -1,0 +1,1120 @@
+[FILL] a/the	HYPONYM	[FILL] is a kind of	SCOPE	HYPERNYM	[FILL] for	FOR/PURPOSE	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID
+the	ability to grow	is a kind of		trait								0d2a-34ad-e231-a167
+the	ability to reflect off of a surface	is a kind of		characteristic							Move to PropertiesGeneric?	cc0c-1716-b089-2d07
+	absorbing	is a kind of		function								8a87-904f-85e9-deb5
+an	acorn	is a kind of		seed								5bfa-ddb1-fcd5-0079
+an	adaptation	is a kind of		change								e408-b84f-10e9-cf17
+an	adaptation	is a kind of		characteristic								da2b-fb92-41aa-b359
+	adding	is a kind of		activity								5663-a8e3-1f5e-df3e
+	adding something	is a kind of		change								1a46-09fd-bf55-7001
+	air	is a kind of		gas								70ac-58d8-10b4-1313
+	air	is a kind of		matter								0b2c-f8af-7823-d253
+	air	is a kind of		medium	for	light						ac9a-6d31-d96f-51cd
+an	airplane	is a kind of		vehicle								182e-6373-acc4-bde3
+an	algae	is a kind of		organism								28d3-fb60-bdd3-d10c
+an	alligator	is a kind of	aquatic	animal								5086-b21f-9f0a-e67d
+the	Alps	are a kind of	mountain	range								7056-db73-6d86-2bf1
+	aluminum	is a kind of		element								4c25-b5f8-13bf-6b86
+	aluminum	is a kind of		matter								26a1-5a20-e241-28f1
+	aluminum	is a kind of		metal								a580-1b9e-6ec9-a275
+	aluminum	is a kind of		nonrenewable resource							Moved to PROP-RESOURCES-RENEWABLE	f5e4-ab86-f5de-6a5f
+an	amoeba	is a kind of	single-celled	organism								ab12-f588-a1af-90a0
+an	amphibian	is a kind of		animal								3740-c11d-832c-96f2
+an	amphibian	is a kind of		vertebrate								0b44-0582-f4ba-58c2
+an	anemometer	is a kind of		instrument	for	measuring wind speed						ad64-e231-181e-0684
+an	animal	is a kind of		consumer								c799-dee0-451a-dd60
+an	animal	is a kind of		living thing								bb63-bcc5-0cd8-72db
+an	animal	is a kind of		living thing							Duplicate. All uses deleted.	34b7-df26-54b7-5ad8
+an	animal	is a kind of		organism								10ce-c060-90b9-b748
+an	animal cell	is a kind of		cell								2702-7db2-6eb1-e03f
+an	ant	is a kind of		insect								5079-3873-b0ab-85a3
+the	Appalachian Mountains	are a kind of		mountain								4a96-2fb6-33e3-a914
+the	Appalachians	are a kind of	mountain	range								b2a3-bc18-29f0-d92b
+an	apple	is a kind of		fruit								440e-272e-8e84-6b1e
+an	apple	is a kind of		fruit							Duplicate. All uses deleted.	d3b7-af44-8672-5eeb
+an	apple tree	is a kind of		plant								00a7-56fc-3c22-e6f2
+an	aquatic animal	is a kind of		animal								b80f-f372-967d-6ac4
+an	arch	is a kind of		land formation								0c28-b3cd-bb77-d385
+the	arctic	is a kind of		environment								c7b7-2fdc-e793-309e
+the	arctic 	is a kind of		environment							Duplicate. All uses deleted.	9097-513f-034b-0454
+the	Arctic Ocean	is a kind of		ocean								66b8-769e-1915-e8a1
+an	Arizona mountain king snake	is a kind of		snake								d5fd-46c9-0da1-cd27
+an	arm	is a kind of		limb								a93c-2971-18d2-ebed
+an	article of clothing	is a kind of		object								3d61-550e-57ae-b045
+	asphalt	is a kind of		road surface								b093-b6c0-74b9-27c2
+	astronomy	is a kind of		branch				of science				6932-0017-f9ba-bd0e
+the	atmosphere	is a kind of		area								dcb8-493b-65be-44b6
+an	atom	is a kind of		object								9863-d20e-e589-510a
+	attracting	is a kind of		function; activity								3876-3549-b081-abe3
+	August	is a kind of		month								8fbd-c9cc-fe18-e80c
+the	automobile	is a kind of		technology								f8ad-6ff2-e6fa-3dee
+an	automobile	is a kind of		vehicle								7cb7-40ac-f4d5-eb6c
+	Autumn	is a kind of		season								2526-2b72-2cb0-0beb
+	avoiding	is a kind of		defense								ac40-1cc5-4994-7922
+	avoiding predators; escaping predators; avoiding consumers	is a kind of		protection				Move to PREDATOR-PREY.				9a54-14e7-f8f4-6375
+	away	is a kind of		direction								61be-4253-9acc-ea77
+a	baby	is a kind of	young	animal								9821-0c40-6f55-0b6d
+a	bacterium	is a kind of		decomposer								8c18-8f91-c1ab-742b
+a	bacterium	is a kind of		organism								6cd3-9d8e-f58c-d4fc
+a	bad reaction to medicine	is a kind of		problem								0de5-48b7-1fb5-acbb
+a	balance	is a kind of		instrument	for	measuring mass; measuring weight						fad5-a6d6-cfd6-b9ed
+	balancing a ball on one's nose	is a kind of		trick								c2b0-bd30-2dc8-376e
+a	ball	is a kind of		object								5650-b213-46ea-d9dd
+a	balloon	is a kind of		object								93a8-6f1f-f6e7-e5bc
+	bark	is a kind of		sound								74e3-5983-4e66-f53f
+a	barometer	is a kind of		instrument							Duplicate. All uses deleted.	51b6-c325-850e-8a22
+a	barometer	is a kind of		instrument	for	measuring air pressure						ab9f-bddf-b450-6260
+a	bat	is a kind of		animal								7ca2-740e-37f4-0a9e
+a	bat	is a kind of		mammal								4e61-2891-e675-3f88
+a	battery	is a kind of		object								7149-5022-cd2c-b375
+a	beach	is a kind of		habitat; environment								2913-c482-da7e-b2f6
+a	beach	is a kind of		location								7a02-3c43-f89e-8b50
+a	bean plant	is a kind of		plant								7881-6f75-7de9-2722
+a	bear	is a kind of		animal								5639-8136-4788-3ee6
+	bedrock	is a kind of		rock								e9d6-4c3d-84ba-0cd0
+a	behavior	is a kind of		characteristic								de41-df04-573b-7370
+	being made of something	is a kind of		feature							Low quality. All uses deleted.	f1e7-dfb5-ae92-40cc
+	being sick	is a kind of		problem; harm								d509-052f-82a6-4c52
+a	berry	is a kind of		fruit								0d28-7059-bcd4-0859
+a	beverage	is a kind of		food								879e-75ee-34d3-b880
+a	beverage	is a kind of		liquid								c06c-117e-c8e2-2750
+a	bicycle	is a kind of		object								ab39-00a1-7fb7-b1d1
+a	bicycle	is a kind of		vehicle								b019-cdb9-47c8-1c40
+	binoculars	are a kind of		instrument	for	observing distant objects						5009-5661-5c6a-ec21
+a	biofuel	is a kind of	alternative	energy resource								3352-8265-75b0-3355
+a	bird	is a kind of		animal								e26b-b21d-d4a3-25fc
+a	bird	is a kind of		animal							Duplicate. All uses deleted.	7f52-3b15-ed6e-171a
+a	bird	is a kind of		living thing								c2ef-566c-c356-778f
+	birds	are a kind of		predator							Moved to PREDATOR-PREY	5cc8-699f-54e8-acb7
+	black	is a kind of		color								7892-f43a-8f12-2a8d
+a	black-eyed Susan wildflower	is a kind of		flower								ba0c-9558-8ad1-d90d
+a	block	is a kind of		object								aa85-b969-a168-ebce
+a	block	is a kind of		object							Duplicate. All uses deleted.	7345-8be9-7302-3f50
+	blubber	is a kind of		fat								e1b6-ff98-c47b-fd5a
+	blue	is a kind of		color								da13-6af7-4533-d9ca
+a	blue jay	is a kind of		bird								6350-c3b8-88a9-6c60
+a	board	is a kind of		object								f2d9-9926-adab-4bb0
+a	body of water	is a kind of		environment								3f9d-8b3a-54b5-6a3c
+a	body of water	is a kind of	land	feature								6159-8c5f-9204-67b2
+a	body part	is a kind of		object								6be1-b308-a82c-c599
+	boiling	is a kind of		phase change								edd3-cea2-f046-e76f
+a	book	is a kind of		object								f3e2-6d60-0293-35e4
+a	bottle	is a kind of		container								a824-aa4b-d228-d7c7
+a	boulder	is a kind of	large	rock								93f5-d52b-1446-d912
+a	bowl	is a kind of		container								13f6-64dd-d4b6-6fec
+a	boy	is a kind of	young male	human								e881-b28d-9433-c19d
+a	brain	is a kind of	internal	organ								8e1c-a4f8-3938-b891
+a	brake	is a kind of		object								5368-ccdf-d870-eae9
+	brass	is a kind of		alloy								2843-571e-d3d2-d99d
+	bread	is a kind of		food								08c1-496e-6ad5-5c13
+	breaking down	is a kind of		forming								18c0-bb11-0330-ae2c
+	breaking down	is a kind of		function								5c20-2524-068f-74f6
+	breathing	is a kind of		process								daf3-3001-4bea-9034
+a	brick	is a kind of		object								9615-0fc7-d7f5-487f
+	bringing	is a kind of		action								df95-f9f1-8e21-6054
+	bringing oxygen to the body	is a kind of		function								4043-728e-19d8-238d
+	bringing substances to the body	is a kind of		function								2a76-307e-23d8-5e78
+	brown	is a kind of		color								e864-93bd-18ea-8a13
+a	bubble	is a kind of		object								6656-785f-dbd2-4c9b
+a	bunting	is a kind of		bird								a9e5-5d52-2c62-c27d
+a	burner	is a kind of		object; surface								a5ab-7b37-388a-1cd3
+	burning	is a kind of		action								f056-ff9c-c044-c99a
+	burying	is a kind of		hiding								dad1-ceed-5798-500e
+a	bush	is a kind of		plant								311e-8d88-cde2-860d
+	butter	is a kind of		solid					below 32 degrees celsius			e9ec-d6ef-e1a0-97fd
+	butter	is a kind of		substance								e15d-0c5d-0e78-b5dc
+a	butterfly	is a kind of		animal								f12e-5766-27fb-ebf8
+a	butterfly	is a kind of		insect								1310-8acf-1fa5-d8db
+a	butterfly	is a kind of		organism								847e-e7e6-d54e-e335
+a	cactus	is a kind of		plant								aadb-cb93-3373-eefa
+a	cake	is a kind of	baked	product								e2a9-870f-4d89-e4b8
+a	calculator	is a kind of		tool								1c02-45a8-ac3d-d3e5
+a	camel	is a kind of		animal								7c5c-d0bf-98c2-aab9
+a	camera	is a kind of		tool	for	recording images						3d59-043d-faf2-a90e
+	camouflage	is a kind of		adaptation	for	hiding		in an environment				c6ad-76f9-7f5c-33e0
+	camouflage	is a kind of		protection				against predators; from predators; against consumers				39b9-9637-538d-0d33
+a	camper	is a kind of		human								d57a-f3b8-87b3-73c6
+a	campfire	is a kind of		fire								db8c-9eae-6023-0d7b
+a	can	is a kind of		object								b85c-d197-cb03-a4f1
+a	candle	is a kind of		object								95ea-5ab6-c735-8ce5
+	candy	is a kind of		dessert								64b0-c692-7001-4ab6
+a	canyon	is a kind of		landform								9391-2a1e-2e67-95b9
+a	canyon	is a kind of		place								fa65-d947-a5a2-2d1f
+a	car	is a kind of		object								fe6e-84fa-d289-aee9
+a	car	is a kind of		vehicle								c1de-b3ef-e1c4-0087
+	carbon dioxide	is a kind of		gas								96ff-31bb-ea13-9aff
+	carbon monoxide	is a kind of		gas								1a38-d031-a283-b5aa
+a	carbon monoxide detector	is a kind of		instrument	for	warning people that carbon monoxide is present		in a building				f68e-fb11-a7b3-a72e
+	carnivores; omnivores	are a kind of		predator							Moved to PREDATOR-PREY	5ac1-2d58-618c-3cda
+	carnivores; omnivores; herbivores	are a kind of		animal								c709-83dd-975c-b05d
+	carpet	is a kind of		material								7c86-786b-68dd-de35
+	carpooling	is a kind of		activity								7e0c-4aad-052d-7c9c
+a	cat	is a kind of		animal								1700-a363-df25-ad34
+a	cat	is a kind of		mammal								55b1-c3f1-bdb8-826d
+	causing	is a kind of		affecting								9d53-7320-d186-07d9
+	causing	is a kind of		function								da58-addb-0630-0b89
+a	cavern	is a kind of	land	form								34ab-0980-7a15-537e
+a	ceiling fan	is a kind of		fan								6637-e41b-2d15-bfdc
+a	cell	is a kind of		object								8370-394e-7d79-4c14
+	cellular respiration	is a kind of		process								57ee-2852-addc-6da0
+a	centimeter	is a kind of		unit of measurement								cf45-38b5-9810-f308
+	centuries	are a kind of		unit	for	measuring time						0d3e-321a-b845-8dd9
+a	chair	is a kind of		object								9f4c-5487-7b35-f049
+a	chameleon	is a kind of		lizard								5ba5-3b3b-be24-624e
+a	change	is a kind of		effect							Moved to SYNONYMY	cc98-fc9c-ba53-97d4
+a	change	is a kind of		event								3a14-9cd4-c11b-d164
+	Charles Darwin	was a kind of		scientist								3f44-34c9-edee-9514
+	chemical energy	is a kind of		energy								b043-79cc-a77e-e968
+	chemical weathering	is a kind of		weathering								43fa-1bf5-c428-cfa5
+a	chick	is a kind of	young; baby	chicken								01a2-8e37-b59a-23e3
+a	chicken	is a kind of		bird								9ede-6c4b-43f2-6da3
+a	child	is a kind of	young	human								61f9-cfd2-20f5-992d
+a	chipmunk	is a kind of		mammal								5295-dcae-6915-29d4
+	chlorophyll	is a kind of		pigment								ee81-d31b-b856-0729
+	chocolate	is a kind of		solid				usually				858d-7f12-bc99-2177
+a	circuit	is a kind of	electrical	component								e112-616e-e25b-4a79
+a	city	is a kind of		location								b912-4b52-7e9c-0d4c
+a	clam	is a kind of		aquatic animal								10ea-cf33-c978-c0fb
+	classification	is a kind of		process								c45b-915d-6c55-4e69
+	classifying	is a kind of	science	process								2188-2e33-82c8-5741
+a	classroom	is a kind of		a room								93cb-4c9a-59c2-2cd0
+	cloth	is a kind of		material								8e54-4d09-bc9f-bdd1
+a	cloud	is a kind of		weather								213b-79e4-47ec-0581
+a	cluck	is a kind of		sound								d7da-64da-dcb9-a4ff
+	coal	is a kind of		fossil fuel								cab1-f3c3-59de-b682
+	coal	is a kind of		fuel								bc22-ba46-53be-ea3a
+	coal	is a kind of		nonrenewable resource							Moved to PROP-RESOURCES-RENEWABLE	2a93-fc4e-e52c-6897
+	coal	is a kind of		nonrenewable resource							Moved to PROP-RESOURCES-RENEWABLE	2a93-fc4e-e52c-6897
+	coal	is a kind of	black	rock							Moved to Proto-Properties-Things	ded4-82de-bd66-1648
+	coal	is a kind of		rock								67fa-a478-80e1-8fef
+	coal	is a kind of		sedimentary rock								ebfc-2409-7596-7174
+a	coast	is a kind of		environment								fcf8-5a39-4b2d-ece2
+a	coastal area	is a kind of		environment								1065-849d-5c96-0863
+a	coin	is a kind of		object								8e61-1c71-239d-4814
+	color	is a kind of	physical; visual	property								6903-1d34-3271-a6b8
+the	Colorado River	is a kind of		river								9a9a-ea53-e57f-0e23
+	coloration	is a kind of		adaptation	for	hiding;camouflage						ad2f-c1c6-5368-4fcd
+	combustion	is a kind of	chemical	change								eaad-89d5-b78f-cf5a
+	combustion	is a kind of	exothermic	reaction								c647-3cc8-d585-a196
+a	comet	is a kind of	celestial	body								8357-d57c-5cff-b3ee
+a	compass	is a kind of		object								68cd-53e7-7adb-0634
+a	compass	is a kind of		tool	for	determining direction	by pointing north					a19f-27a1-7743-9769
+	composition	is a kind of		property							Moved to Properties-Generic	7c91-2886-7fe7-1b47
+a	computer	is a kind of		tool								da4f-8a91-c9d9-0eab
+	condensing	is a kind of		process								7faf-cb37-05f2-3e08
+	conducting	is a kind of		function								fe85-5892-7823-5d15
+	conduction	is a kind of		process								6d44-6295-592b-4db9
+	conductivity	is a kind of	physical	property								c41d-9ce9-3d44-e24a
+	conserving water	is a kind of		characteristic								489a-467c-0138-cd62
+a	container	is a kind of		object								299f-781c-ea28-9ce3
+a	container with air holes in the top	is a kind of		tool								d6ad-b5b4-1186-0117
+a	continent	is a kind of	large	land mass								070a-2fde-af8a-62a6
+	contract	is a kind of		change				in volume				8969-68e2-987a-8b72
+	controlling	is a kind of		function								52f6-322b-a00b-cf49
+	convection	is a kind of		process								5608-9598-e60e-85b0
+	cooking	is a kind of		skill	for	preparing food						02bb-bdf2-f936-d557
+	cooling	is a kind of		process								241c-3fd6-32cd-10e3
+	copper	is a kind of		metal								9cea-7fba-e1c5-f8b3
+	coral	is a kind of		aquatic animal								1e73-7f0f-13b5-1523
+	corn	is a kind of		crop								a75a-0651-9b8b-f087
+	corn	is a kind of		plant								44b1-c2ab-2e0d-e5e5
+	corn	is a kind of		seed								f50f-d47e-79e8-e25b
+a	covering	is a kind of		object								3aa7-2278-0849-316b
+	covering something	is a kind of		protection								3e42-533a-ed4d-c99b
+a	cow	is a kind of		animal								7579-be94-da2b-b793
+a	coyote	is a kind of		animal								1932-0d7e-562c-c466
+a	crab	is a kind of	water	animal								0499-a475-56c4-8d43
+a	crack	is a kind of		opening								4e89-3fff-95dc-573e
+a	crater	is a kind of	land	feature								a2aa-4c08-9194-e2ef
+	creating	is a kind of		activity								0092-b671-2f6c-9726
+a	cricket	is a kind of		insect								5319-76bf-8c5d-657d
+a	crop	is a kind of		food								afdc-23b1-2d30-e520
+	crops	are a kind of	edible	plant	for	eating						281b-9541-e1c7-6c92
+a	cup	is a kind of	drinking	container								b79e-666e-ccf1-f45c
+	curiosity	is a kind of	human	quality								59db-5841-efaf-6ac5
+	curling	is a kind of		behavior								41e5-6655-f98c-8696
+a	cushion	is a kind of		object								4da3-61dc-91ef-b4ad
+a	cut	is a kind of		wound								21ce-fb09-081b-a826
+	cyan	is a kind of		color								cf7f-51fc-f20a-8384
+a	cycle	is a kind of		process								4330-7381-9bed-2b75
+	dairy	is a kind of		food								12e5-6d27-bff0-489c
+a	daisy	is a kind of		flower								ed6a-03de-1756-b6bc
+	damage	is a kind of		harm							Moved to Synonymy	0f3b-5283-e693-63fa
+a	dandelion	is a kind of		flower								3b33-111c-c079-df38
+	days	are a kind of		unit	for	measuring time						ec3f-17e4-7f87-3757
+	decades	are a kind of		unit	for	measuring time						be17-2cad-5cc5-0f66
+	december	is a kind of		month								28df-fece-46cf-e074
+a	decomposer	is a kind of		living thing								8d39-8c01-d006-1326
+a	decomposer	is a kind of		living thing							Duplicate. All uses deleted.	8dab-fa05-1ceb-e694
+	decomposer	is a kind of		role				in the food chain process; in an ecosystem				ec9d-6fc5-9cb0-28db
+	decomposition	is a kind of		process								94aa-c937-f092-7d88
+a	decrease	is a kind of		change								a81f-882c-3627-408d
+	decreasing	is a kind of		change							Duplicate (by lemmatizer). All uses deleted.	f1d7-fb01-7450-3eff
+a	deep sea animal	is a kind of	marine	organism								ff7d-b137-62ff-567b
+a	deer	is a kind of		animal								8cd7-84f7-76a1-1ba5
+a	deer mouse	is a kind of		mouse								2c01-2721-96af-28e1
+a	delta	is a kind of	geologic	structure; landform								ae9e-0641-6d10-e452
+	deposition	is a kind of		constructive force								26ca-d196-e2c1-632c
+	deposition	is a kind of	natural	process								45f5-854b-a9a9-d2e7
+a	desert	is a kind of		environment								328a-8d46-1485-c3c3
+a	desk	is a kind of		table								30aa-0d51-4be2-538d
+a	dessert	is a kind of		food								d02f-8790-4fd9-da49
+a	device	is a kind of		object								5e04-dbd6-f9b0-14b4
+	dew	is a kind of		condensation								e96e-4426-7f92-f56d
+	dew	is a kind of		liquid								06f4-8004-6e6f-4eab
+	diamond	is a kind of		mineral								7e9a-fec3-cac8-51bb
+a	diatom	is a kind of		organism								8794-bd63-7a55-f9fc
+a	diatom	is a kind of		producer								f36b-4742-f196-9090
+	digestion	is a kind of	bodily	process								c06c-630c-c3ed-e7a0
+the	digestive system	is a kind of	body	system								9a31-6857-9a85-8828
+a	dime	is a kind of		coin								7d18-5634-a307-8207
+a	dinosaur	is a kind of	extinct	animal								9d97-04bc-21d3-bf27
+a	dog	is a kind of		animal								c963-24b2-f50d-a21d
+a	doorbell	is a kind of		bell								1c3a-3b86-ae06-715c
+a	doorbell	is a kind of	electric	device								ac96-5db5-366c-b342
+	down	is a kind of		direction								36e1-b93c-2ce0-866f
+	down	is a kind of		small feather								58f2-80ea-9592-38a4
+	down feathers	are a kind of		insulator							Moved to Prop-Conductivity	80f8-61b9-d6d9-202b
+	down feathers	are a kind of		material								3240-c2c8-0748-1c2a
+	downhill	is a kind of		direction								fc5c-acec-f27b-efbd
+	downstream	is a kind of		direction				in a river				ed4f-6314-0f55-e413
+	downward	is a kind of		direction								098d-fb47-d982-7a36
+a	drinking straw	is a kind of		object								9349-71b6-e9b8-fd21
+	driving	is a kind of		skill	for	operating a vehicle						f764-ebbe-8f77-1ea2
+a	drop	is a kind of		liquid					small amount			f3d7-58e4-df8d-4c5f
+a	droplet	is a kind of	little	drop								82db-e172-d4b8-5aca
+a	drought	is a kind of	natural	disaster								3e09-df41-a63a-cf1c
+a	drought	is a kind of	slow	environmental change								31b1-33e5-a71c-0f61
+a	drought	is a kind of	natural	event								f997-a1ce-5dd5-9716
+a	drum	is a kind of		musical instrument								d1b6-8301-bd8c-c627
+a	duck	is a kind of		animal								e763-d114-af0e-426c
+a	duck	is a kind of		aquatic animal								371e-0bce-867d-1e1a
+a	duck	is a kind of		bird								b40f-032c-a3c4-57f2
+an	eagle	is a kind of		animal								133f-8977-dfd9-c969
+an	eagle	is a kind of		bird								b528-99f7-f98d-4a09
+an	eagle	is a kind of		bird							Duplicate. All used deleted.	8ee9-0f70-2826-d99c
+an	ear	is a kind of		body part								02a9-6ebd-741c-ddf1
+an	earlobe	is a kind of		body part								2c08-7667-3a32-cd76
+	Earth	is a kind of		planet								e473-7297-61c1-56fa
+	Earth	is a kind of		planet							Duplicate. All used deleted.	1a6d-a427-8ac0-28bf
+an	earthquake	is a kind of	natural	event								8129-78ea-abe4-f382
+an	earthworm	is a kind of		animal								f6bf-c88d-502b-826b
+an	earthworm	is a kind of		decomposer								cf2d-8332-c29b-2c57
+the	Eastern Hemisphere	is a kind of		hemisphere				of Earth				0527-8a98-eb69-f5e6
+	eating certain foods	is a kind of		habit								26dc-135c-41e9-6a03
+an	echo	is a kind of		sound								e9e5-df09-379a-fa17
+an	ecosystem	is a kind of		habitat								9156-3212-805b-fd3d
+an	egg	is a kind of		food								7eae-fed8-4c36-88aa
+an	egg	is a kind of		object								14f6-1b4a-f963-8a50
+an	electric car	is a kind of		invention								f829-cd8d-c894-e9ee
+an	electric fan	is a kind of		electrical device	for	cooling; ventilation						d259-7bf2-a54b-5195
+an	electric toothbrush	is a kind of		electric device								106a-0379-0b23-ab7d
+	electrical energy	is a kind of		energy								b5ca-9f64-d6d6-6783
+an	electromagnet	is a kind of	electric	magnet								efca-82f8-2845-8de5
+an	electron	is a kind of	charged	particle								7663-f110-4072-8d48
+an	element	is a kind of		material								e384-486e-8a78-a853
+	elements	are a kind of		substance								4706-54ea-c8d6-bedd
+an	energy source	is a kind of		resource								044f-98c1-07d1-2e57
+an	environment	is a kind of		place								fc8a-1dc7-a746-de58
+an	eraser	is a kind of		solid								0164-3d03-ab81-9b9a
+	erosion	is a kind of		change								e28b-677c-4a92-cf3b
+	erosion	is a kind of		destructive force								818d-694a-356a-68bb
+	erosion	is a kind of		process								7fff-260d-92e0-8f87
+an	estuary	is a kind of		body of water								95ee-8457-ae77-ae9a
+	evaporation	is a kind of		process								bfeb-fb56-8937-91c9
+an	event	is a kind of		action								d3ac-d13c-97bb-6a5a
+the	excretory system	is a kind of	body	system								023e-be5e-200d-d253
+	exercise	is a kind of	physical	activity								c408-fd09-500e-0867
+	exercising	is a kind of		habit								7069-dcda-4749-8fe9
+	expand	is a kind of		change				in volume				57fc-8994-cc18-9090
+	eye color	is a kind of		inherited characteristic							Moved to PROP-INHERITEDLEARNED	19cd-251d-7145-af81
+an	eyeglass lens	is a kind of		object								93f3-4dd8-30f7-de3f
+	fall	is a kind of		season								8c3a-1f07-c11d-ad88
+a	farmer	is a kind of		human								f764-c0c4-fc12-70f2
+	farming	is a kind of		process								9963-e79f-4516-551a
+a	fence	is a kind of		object								b241-1f01-1b84-2601
+a	fern	is a kind of		plant								9a85-698e-680e-5033
+	fiber	is a kind of		material								04a7-76c0-16a3-fbb0
+a	field	is a kind of		environment								2a18-601d-51f0-3abc
+a	field	is a kind of		environment							Duplicate. All used deleted. 	b880-7186-8fd7-c440
+a	field	is a kind of		habitat								1368-2e1b-eb74-f182
+a	filter	is a kind of		tool	for	separating liquid from solid particles						f349-c742-9e3b-e235
+	fire	is a kind of		chemical reaction								6cf1-9d92-5a26-93fd
+a	first quarter	is a kind of		phase of the moon								a62b-415d-357f-995a
+a	fish	is a kind of		animal								9526-aecc-22b2-4b6a
+a	fish	is a kind of		animal							Duplicate. All used deleted. 	0bc0-31f6-513b-ff06
+a	fish	is a kind of		aquatic animal								a94e-e849-c066-fecd
+	fish	is a kind of		meat								5298-d80f-5675-6ea3
+a	fish	is a kind of		scaled animal								7ec2-c1a0-5e6d-55eb
+a	flagpole	is a kind of		object								35d1-8c12-878d-beb6
+	flammability	is a kind of	chemical	property								6583-a76d-4f3f-b4f0
+a	flashlight	is a kind of	electrical	device								130a-ea4e-6de1-a4af
+a	flashlight	is a kind of		tool								54d6-953e-c432-50de
+a	flipper	is a kind of		limb								efe5-2110-2946-4748
+	floating on water	is a kind of		adaptation								fb07-29fd-92ad-c6bb
+	flooding	is a kind of		change								ec04-9eb8-f263-13ea
+a	floodplain	is a kind of		land; landform								e4d7-20bc-aa47-3dd9
+the	floor	is a kind of		object								785d-6676-9d5d-78b2
+a	flower	is a kind of		plant								e337-f5c8-75aa-81b6
+	flowing	is a kind of		motion								a52a-1b59-1f8c-028e
+a	flute	is a kind of	musical	instrument								e199-cb9e-c3be-c3de
+a	fly	is a kind of		insect								dad4-aeac-6f8a-c42b
+	flying	is a kind of		motion			air					464c-d7c3-7c7d-8ae7
+	food	is a kind of		chemical energy								c457-baf0-ed17-9213
+	food	is a kind of		object								dd4a-59cf-dde4-11b2
+	food	is a kind of		resource								6cf8-4a91-b857-9203
+	food	is a kind of		substance								c31f-f938-8a69-233b
+	food poisoning	is a kind of		illness								ccdf-6c73-fb7c-ab36
+a	food preference	is a kind of		preference								c01f-8454-a55a-ac57
+a	forest	is a kind of		ecosystem								e58d-03a1-b94d-942d
+a	forest	is a kind of		environment								b5d1-0f14-f32e-c6b4
+a	fork	is a kind of		object								8fae-9711-61b9-fce8
+	formation of a state of matter	is a kind of		process								5ebf-99ed-deef-f31d
+the	formation of rock	is a kind of		process								6745-a12f-f936-8192
+the	formation of something	is a kind of		process								402b-f67a-2f5a-0a05
+	forming something	is a kind of		change								fd3c-8fc5-fc72-8ccf
+a	fox	is a kind of		animal								9714-412f-bfe4-c7ab
+	freckles	is a kind of		inherited characteristic								36f8-40f6-3ae3-9524
+	freezing point	is a kind of	physical	property								d3b3-ecd0-5b4d-bedf
+	friction	is a kind of		force								dc6a-e211-23ac-d827
+a	frog	is a kind of		amphibian								37e7-fd9e-4591-1258
+a	frog	is a kind of		animal								9e89-73fd-66d5-18e2
+a	frog	is a kind of		aquatic animal								59c6-0fc8-f645-a67b
+a	frog	is a kind of	adult	form				of a frog			Moved to Proto-Instances	c04e-31db-cf48-5a24
+	frosting	is a kind of		material								a3d0-8bed-e536-0fd9
+	fruit	is a kind of		food								d1e4-c4e1-111b-0f34
+a	fruit	is a kind of		object								16ce-a772-1577-f0e3
+	fruit trees	are a kind of		crop								59c5-767d-fe82-f747
+	frying food	is a kind of		cooking								9793-b861-bc67-0e67
+	fuel	is a kind of		energy source								1b14-afc4-9d2b-8dbd
+	fuel supply	is a kind of		resource								1aed-3c74-88e1-9d96
+a	full moon	is a kind of		phase of the moon								061d-1ec6-4a7a-9f63
+a	function	is a kind of		characteristic								7697-a428-b299-c144
+a	fungus	is a kind of		living thing								4ae9-5a73-3f04-48f7
+	gas	is a kind of		state of matter								aa73-331e-e970-c934
+	gas	is a kind of		substance								6c6f-b690-6b57-aab6
+a	germ	is a kind of	harmful	substance								61e4-bb67-a031-8154
+a	gill	is a kind of		organ	for	breathing water						3756-21fd-e448-dbfc
+a	gill	is a kind of		organ							Duplicate. All used deleted. 	ba09-b38e-44af-2b6c
+	gills	are a kind of		adaptation	for	getting oxygen		underwater				9f02-a641-79a9-d4ec
+a	girl	is a kind of		animal								9a26-1df3-851d-e9e4
+a	girl	is a kind of	young; female	human								a50c-ba38-bbe4-12c1
+a	girl	is a kind of		organism								6d01-d990-df90-0a6d
+a	glacier	is a kind of		body of water								7b89-9ee6-46e3-69f9
+	glass	is a kind of	open	container								6198-fec8-e40b-1993
+	glass	is a kind of		object								d709-d70e-7d0f-3f54
+a	glove	is a kind of		tool								ca30-823e-fdba-2aab
+	goggles	are a kind of		object								95d8-d1fb-bd0a-1a66
+	gold	is a kind of		element								eb57-77f3-768e-3665
+	gold	is a kind of		solid								41ff-4240-13ce-27e0
+a	goldfish	is a kind of		fish								502a-ad74-1aed-3da5
+a	goose	is a kind of		bird								73a9-a826-930a-758c
+a	gourd	is a kind of		fruit								3f08-d790-ccf8-af59
+a	graduated cylinder	is a kind of		instrument	for	measuring volume of liquids or objects						8fee-0f80-9fbf-df1d
+a	gram 	is a kind of		unit	for	measuring mass						d2f9-367f-2c90-fbcd
+the	Grand Canyon	is a kind of		canyon								bea1-3b11-3955-ffaf
+	grass	is a kind of	green	plant								9d2f-b39b-3921-a54c
+a	grassland	is a kind of		environment								4fd1-9865-f350-6e2c
+	gravity	is a kind of		force								1271-8178-87cf-045c
+	green	is a kind of		color								8f8e-37fa-0093-b7ef
+	green plants	are a kind of		producer								f812-4338-e44b-e685
+a	greenhouse	is a kind of		shelter	for	plants						4349-2e73-8808-3750
+	ground water	is a kind of		water								a4ef-def5-ee56-4125
+	growing	is a kind of		activity								3b23-bc5c-3332-4508
+	growing	is a kind of		process								f116-778d-7f8a-6ec6
+	growth	is a kind of		change								a214-a651-6eff-93dd
+a	guitar	is a kind of		musical instrument								71b4-e5fc-3ed1-a1c0
+	hail	is a kind of		precipitation							Duplicate. All used deleted. 	38db-5b79-b0cf-2898
+	hail	is a kind of		precipitation; ice								cb4c-5229-e5b9-6408
+a	hair	is a kind of		object								12a1-83f7-fc55-95a5
+a	hand	is a kind of		object								d691-82fb-2145-80e4
+a	hand dryer	is a kind of		electrical device	for	drying hair						2728-2bde-6c00-9dd0
+a	handle	is a kind of		object								8985-7fba-d15d-a387
+a	hare	is a kind of		animal								6f73-8241-0aaf-24ef
+a	hatchling	is a kind of	newborn; baby; young	bird								d68d-0b43-19d2-5526
+a	hawk	is a kind of		animal								78d2-c53f-0244-23c2
+a	hawk	is a kind of		bird								8e51-19a5-59e8-ff11
+	hearing	is a kind of		sense								e3f1-e16c-dd80-32ea
+a	heart	is a kind of		organ								9078-ba6c-fdad-d876
+	heat	is a kind of		energy								9e7d-986e-6af1-5ac1
+a	hen	is a kind of	female adult	chicken								b0ce-cf5b-dba3-3b9b
+	hiding	is a kind of		protection				against predators; from predators				19da-4665-c208-b9ae
+the	Himalayas	are a kind of		mountain range								81c7-3170-da45-e21d
+a	hit	is a kind of		touch								c6d0-b0ba-ba3b-db1c
+a	home	is a kind of		building								4d1f-ad79-3299-bfb4
+a	homeowner	is a kind of		human								c71e-1ca8-f860-d544
+a	horned lizard	is a kind of		lizard								e59c-b8d6-ebb0-b796
+a	hot plate	is a kind of		instrument								2326-f572-9b29-58d5
+	hours	are a kind of		unit	for	measuring time						122e-b36b-0183-80c7
+a	house	is a kind of		home								8b98-86c4-6f2f-94ad
+	household appliances	are a kind of	electrical	device								53c2-3d92-5b32-6e64
+	how long something takes	is a kind of		measurement				of time				cc92-3103-fbe1-a87a
+a	hum	is a kind of		sound								26bf-b84f-072a-b68a
+a	human	is a kind of		animal								4253-4b9e-1e5f-1742
+a	human	is a kind of		mammal								7160-91ab-6d7e-14c8
+	humidity	is a kind of		water vapor								06e7-3920-6321-983c
+a	hummingbird	is a kind of		animal								b631-3f9d-d4ae-c311
+a	hummingbird	is a kind of		bird								3ed3-ffdd-5807-f126
+	hunting	is a kind of		action								317f-06e6-5e83-8d81
+	hunting; scavenging	is a kind of		skill								dc9f-1fff-15e4-352a
+a	hurricane	is a kind of		storm								65b3-3bde-505c-db9e
+	hydropower	is a kind of	alternative	energy resource								c844-5280-4695-c6c6
+	ice	is a kind of		food								d248-e9d4-d37d-546e
+	ice	is a kind of		object								2959-08e0-430c-0f87
+	ice	is a kind of		solid								7ef1-c28b-22e3-3edc
+	ice	is a kind of	solid	water					below 0 degrees celsius		Moved to PROTO-PROP-STATESOFMATTER1	9ad4-e422-5211-f98c
+	ice cream	is a kind of		solid								ee58-1bbb-62c4-2c84
+an	ice cube	is a kind of		object								d5e1-2384-26cc-edb9
+an	ice cube	is a kind of		solid								a1a9-97db-a771-1c2b
+	ice wedging	is a kind of		mechanical weathering								b525-3c38-249c-23da
+	igneous	is a kind of		rock								075f-d7cb-993c-ade1
+an	iguana	is a kind of		lizard								912b-606c-6d31-05e3
+an	inclined plane	is a kind of	simple	machine								7f2c-ec1b-0791-4c0d
+an	increase	is a kind of		change								782a-53e7-c1c7-aae0
+	increasing	is a kind of		change							Duplicate (by lemmatizer). All used deleted.	6e22-28fd-6947-c23d
+an	inexhaustible resource	is a kind of	renewable	resource								740e-3d3d-bed5-6528
+an	inherited characteristic	is a kind of		characteristic								33f5-726f-b706-4a01
+	inherited characteristics	are a kind of		hereditary information								b37b-770d-c526-1766
+an	insect	is a kind of		animal								56bd-8c40-3dae-d3e9
+an	instinctive behavior	is a kind of		inherited characteristic; behavioral adaptation								fdb9-edf0-6759-5f09
+an	insulator	is a kind of		material								a651-4b86-5d6a-2327
+the	intensity of sunlight	is a kind of	seasonal	weather pattern								be92-1d31-0922-e113
+an	invention	is a kind of		tool								9ca1-8cf1-b7b6-526c
+	iron	is a kind of		element								bb4d-ea33-08e1-7106
+	iron	is a kind of		metal								de4c-ca36-c336-540f
+	iron	is a kind of		mineral								564d-448d-05b5-998e
+	iron	is a kind of		solid								89f4-0fad-6afc-2199
+an	island	is a kind of		landform								84ea-d95d-42c4-a8fb
+an	ivy plant	is a kind of		plant								b7fe-a475-0233-e760
+a	jackrabbit	is a kind of		rabbit								1399-e19b-a5ea-ed76
+a	jaguar	is a kind of	big	cat								f3fc-b375-1da8-64a3
+a	jar	is a kind of		container								3bdb-25d7-3c9f-958b
+	juice	is a kind of		liquid								14c4-c640-5d74-79a3
+	juice	is a kind of		matter								b481-9087-8ebc-502d
+	juice	is a kind of		solution								b52b-5ade-22b4-b42f
+	jumping rope	is a kind of		skill								b70f-fde1-f800-1809
+	June	is a kind of		month								53f9-1eba-2408-8f4f
+	Jupiter	is a kind of		planet								b772-8846-82c7-f2d8
+a	kangaroo	is a kind of		animal								f40e-296d-660b-f8df
+a	kazoo	is a kind of		musical instrument								1d74-9f8e-c159-135b
+a	kick	is a kind of		push								2c22-fd47-fae8-9fec
+a	kidney	is a kind of		organ				in an animal				1bbb-9096-773e-2c2f
+a	kilogram	is a kind of		unit	for	measuring mass						e9cb-fdf8-abe6-7d9a
+a	kitten	is a kind of	young; baby	cat							Moved to Proto-Instances	b52c-5991-8e05-236b
+	laboratory apron; laboratory coat	is a kind of	safety	gear	for	protecting a person		during an experiment				0025-3e37-acf0-467a
+a	ladybug	is a kind of		insect								cad3-7779-cc28-1338
+a	lake	is a kind of		body of water								5d6a-544c-b296-832e
+	land	is a kind of		environment								14d6-a024-da1b-d3d6
+	land	is a kind of		landform								d495-e54a-9fd2-0acc
+a	landform	is a kind of	natural	formation								26bf-462e-a8fb-f637
+a	landform	is a kind of		object								197a-5152-85d4-6ed5
+a	landform	is a kind of		place								52e5-9469-b294-d665
+a	landslide	is a kind of	natural	event								17c2-1a0b-fa3f-63cb
+	large leaves	are a kind of		adaptation	for	absorbing sunlight						0fef-e04d-dcf6-d43a
+a	larva	is a kind of	young; baby	insect								be4f-b918-8f3b-6a59
+a	laser	is a kind of		device	for	producing light						3168-bafc-668a-35fc
+a	last quarter	is a kind of		phase of the moon								0cac-60e6-ae3d-50ec
+	laying eggs	is a kind of		property				of an animal				d129-c045-1013-af8c
+	lead	is a kind of		element								d08f-9cae-ad54-80ed
+a	leaf	is a kind of		object								08e0-810a-daa2-5a48
+a	leaf	is a kind of		plant								ea5f-42f2-93e0-9520
+a	learned characteristic	is a kind of		acquired characteristic								ef15-b075-f83c-0d12
+	leather	is a kind of	natural	resource								ebb0-2d7d-5836-60f1
+	leaves changing color	is a kind of		process								189c-21f9-3228-3f0c
+	leaving	is a kind of		movement								b505-0192-dee3-0797
+a	lemon tree	is a kind of		plant								9cf1-bc5a-d350-5541
+	Leo	is a kind of		constellation								986b-2bb0-3244-7133
+a	lever	is a kind of		simple machine								9d48-4f8c-09fc-ea0d
+a	lever	is a kind of		simple machine							Dup. All used deleted. 	ffc8-91cc-45f1-f4b1
+	light	is a kind of		energy								f742-384b-744c-10a9
+	light	is a kind of		energy							Dup. All used deleted. 	ca59-5c7a-3f3d-6f48
+	light	is a kind of	nonliving	thing								c035-787b-ecbc-b968
+	light	is a kind of		wave								7830-1dcb-42c6-d8dc
+a	light bulb	is a kind of	electrical	device								00a4-b16a-aa4d-893d
+a	light bulb	is a kind of		tool	for	seeing in the dark						b939-e20d-de35-8401
+	lightning	is a kind of	electrical	discharge								44c6-34b2-4f88-7519
+	lightning	is a kind of		electricity								c56e-40f5-5a3e-12cf
+	limestone	is a kind of	sedimentary	rock								f5b2-aca4-88b1-e3a4
+	limiting something	is a kind of		activity								8784-af6f-9679-ba17
+a	line graph	is a kind of		graph								5cf5-79ec-c7f8-440d
+a	lion	is a kind of		mammal								eca2-7d3f-2d0b-9f93
+	liquid	is a kind of		state of matter								f7e9-c6f8-892b-3496
+a	liquid	is a kind of		substance								3f2b-87bb-f73a-3e5d
+	literacy	is a kind of		skill	for	reading and writing						53ef-434c-c465-3752
+	liters	are a kind of		unit	for	measuring volume of liquids						5c13-e1a5-bbf3-8669
+a	living thing	is a kind of		object								4eac-892f-ecd2-6e0d
+a	lizard	is a kind of		animal								33a0-5ab1-14b3-6bf8
+a	load of bricks	is a kind of		object								405a-72ae-da94-0c7d
+	loss	is a kind of		change								4ed7-fd33-f63a-573f
+	lowering	is a kind of		motion								b1b9-3449-128c-c247
+	lunch	is a kind of		meal								a7a5-0519-c54b-1f3a
+a	lung	is a kind of		organ	for	breathing air						e7d7-9393-dfc8-98bf
+a	magnet	is a kind of		object								fe8e-2342-2aef-4d7b
+a	magnetic field	is a kind of		force								a00a-1166-57c3-f759
+	magnetism	is a kind of		force								9381-2aee-2b0c-d21c
+	magnetism	is a kind of	physical	property								68c8-0c77-7fa9-5633
+a	magnifying glass	is a kind of		tool	for	observing small things						685f-4657-44af-cee7
+a	mammal	is a kind of		animal								2a1f-7883-c269-3736
+a	maple tree	is a kind of		tree								11f2-4ff8-e494-7018
+	marble	is a kind of		object; material								1d1c-a940-405e-dd50
+a	marsh	is a kind of		body of water								a142-f9f0-f59e-1786
+a	marsh willow herb	is a kind of		plant								ab88-7ab1-d6b7-0e6c
+	Maryland	is a kind of		region								6162-d2c2-b79d-8b17
+	material composition	is a kind of	chemical	property								de82-e643-178a-0a7b
+a	meadow	is a kind of		environment								3d8c-f05c-51e2-38f2
+a	measurement	is a kind of		data								6fc4-8091-f720-3e33
+	measuring	is a kind of		observing								8d99-ff62-bcc7-7086
+	measuring	is a kind of	science	skill								a3a3-2470-8532-b386
+a	measuring cup	is a kind of		tool	for	measuring the volume of substances						c7d1-4ec6-f471-6218
+	mechanical energy	is a kind of		energy								3144-f8f2-43a4-8712
+	mechanical weathering	is a kind of		weathering								cdbb-0393-4277-215d
+	melting	is a kind of		phase change								fae9-3cca-92cd-bf20
+	melting	is a kind of		process								36f6-e94f-8780-1897
+	metal	is a kind of		material								95c4-ec5e-bce9-afd8
+	metal	is a kind of	natural	resource								6f65-9a3a-f9f4-0c74
+	metamorphic	is a kind of		rock								28e0-0efa-52fc-4134
+	metamorphic rock	is a kind of		rock								96ab-0b82-8d18-ca9a
+	metamorphosed rock	is a kind of		rock								ad7e-df9b-5e06-8e42
+	metamorphosis	is a kind of		process								ad2b-8827-7838-449a
+a	meter	is a kind of		unit	for	measuring distance; measuring length						65b3-196a-be1f-b9be
+a	meter stick	is a kind of		tool	for	measuring length; measuring distance						1958-4336-80f2-90bd
+	mica	is a kind of		mineral								d332-396d-4f4f-cda0
+a	microorganism	is a kind of		decomposer								a817-2b63-7962-2e34
+a	microscope	is a kind of		tool	for	observing small things						28d0-868d-1eee-0150
+	migration	is a kind of		adaptation								0b85-1757-0b30-a8a2
+	migration	is a kind of		behavior								fcee-e796-d013-02ae
+	miles	are a kind of		unit	for	measuring distance						0b1f-b391-f485-1e6a
+	milk	is a kind of		food								5db9-95b3-3826-14c0
+	milliliters	is a kind of		unit	for	measuring volume of liquids						2a97-db62-2708-bd9d
+a	mineral	is a kind of	solid; natural	material								f294-6f62-2e34-4af0
+a	mineral	is a kind of		object								8435-aecd-2348-6182
+	minutes	are a kind of		unit	for	measuring time						09c7-65ed-43a7-93c0
+a	mirror	is a kind of	reflective	object								4478-dd94-9b15-a346
+the	Mississippi Delta	is a kind of		delta								2301-85aa-b20b-8250
+	mixing	is a kind of		activity								39b7-6128-a6ae-5d97
+	moisture	is a kind of	environmental	factor								926e-6eea-3b5a-f747
+	mold	is a kind of		fungus								0d28-3295-e473-c310
+a	molecule	is a kind of		object								e740-00aa-e89d-8af1
+	Monday	is a kind of		day of the week								2c23-dc4d-c618-2570
+a	monkey	is a kind of		mammal								b412-34c8-f228-654b
+	months	are a kind of		unit	for	measuring time						a3c6-f26b-2009-9503
+a	moon	is a kind of	celestial	object; body								e2ec-1655-c1fd-cb58
+a	moon	is a kind of		satellite								a0cd-50c8-3696-fc4b
+a	moose	is a kind of		animal								a516-6fce-fea3-4280
+a	morning glory	is a kind of		vine								8e4b-7a86-b2a2-8e1c
+a	mosquito	is a kind of		insect								756d-c15b-040c-76e2
+a	moth	is a kind of		insect								4c05-ce97-15e0-e7d5
+a	motion	is a kind of		event; action								e901-c400-086c-8302
+a	mountain	is a kind of		landform								0e02-5e2b-3793-96d3
+a	mountain chorus frog	is a kind of		animal								f050-0c35-8aca-2a52
+a	mountain chorus frog	is a kind of		frog								acb4-aae4-4bf6-25e0
+a	mountain; mountain range	is a kind of		environment								2fcb-3708-8590-8eee
+a	mouse	is a kind of		animal								782f-7770-b8be-f40e
+a	mouse	is a kind of		mammal								7ee2-781c-6f14-a31a
+	movement	is a kind of		change								e9d9-325b-c54c-5f88
+	movements of celestial bodies	are a kind of		event								e30e-09e8-1ee7-fdf6
+a	multicellular organism	is a kind of		living thing								a92e-cb62-22ee-5ddf
+the	muscular system	is a kind of	body	system								5a16-c4db-72e5-13ff
+a	mushroom	is a kind of		fungus								ea91-5664-cefc-e7ee
+a	mushroom	is a kind of		living thing								a666-e28c-98d8-169b
+a	musical instrument	is a kind of		object								300d-4b3b-57dd-2056
+a	mussel	is a kind of	water	animal								0560-dd88-068a-fc05
+a	nail	is a kind of		object								b3d3-c3da-3c51-659e
+	natural gas	is a kind of		fuel								2355-0cfa-86f8-5767
+	natural gas	is a kind of		nonrenewable resource							Moved to PROP-RESOURCES-RENEWABLE	1435-7afa-ec2f-fb78
+a	natural resource	is a kind of		environmental factor								aa69-b4c1-b1e1-9000
+a	nature preserve	is a kind of	protected	area								baab-4c47-5b41-9747
+a	nature preserve	is a kind of		habitat								2b64-01c6-e21e-b32b
+a	needle	is a kind of		object								7b15-d12e-457b-2d61
+the	nervous system	is a kind of	body	system								0fda-acea-84f6-b616
+a	nest	is a kind of		resource				for a bird				fe0e-38e0-f82f-e92a
+a	nest	is a kind of		shelter	for	birds						af00-5b27-b27b-3f63
+	nest building	is a kind of		adaptation								b97c-e53f-7627-7e7e
+a	new moon	is a kind of		phase of the moon								cb3b-8b0b-8cfe-a3e2
+	nitrogen	is a kind of		element								2d67-baa5-abb9-5015
+	nonmetallic	is a kind of		luster								81dc-99bd-7476-6fea
+	noon	is a kind of		time				of day				655d-4374-fd1d-a906
+	Norfolk	is a kind of		town								aa31-b3ca-a8ab-afbd
+	north	is a kind of		direction								ed71-4003-23bd-6b98
+the	North Pole	is a kind of		location								2a94-c730-703f-d4e6
+the	Northern Hemisphere	is a kind of		hemisphere				of Earth				8745-b081-65b5-bc99
+	nuclear fusion	is a kind of	nuclear	reaction								bf6e-59c8-a896-c3cb
+a	nutrient	is a kind of		chemical compound								22fa-ad68-2139-24d0
+	nutrients	are a kind of		matter								3e9a-e391-5052-6b55
+	nutrients	are a kind of		resource								994e-e3fd-47a0-decb
+	nuts	are a kind of		fruit								8160-3018-c7df-ea68
+an	oak	is a kind of		tree								02a0-8f5c-4e3a-a064
+an	ocean	is a kind of		body of water								466a-2c15-ac54-8361
+an	octopus	is a kind of		animal								d0f6-3d4b-e8bf-dcf4
+	oil	is a kind of	fossil	fuel								3092-233a-f999-2512
+	oil	is a kind of		liquid								2eff-c9c0-c7aa-f4b2
+	oil	is a kind of		liquid								7779-45c7-0fb8-b534
+	oil	is a kind of		pollutant								3879-d557-003d-491a
+	oil	is a kind of	nonrenewable	resource							Moved to PROP-RESOURCES-RENEWABLE	d8d9-4774-8a52-3a0d
+	oil	is a kind of		substance								2806-8957-c846-253b
+	one	is a kind of		number								9294-541c-2211-ce63
+an	onion	is a kind of		vegetable								1871-0cbf-610d-1e47
+	opposite	is a kind of		different								f4b8-4f96-90d9-7e04
+	orange	is a kind of		color								103a-3db0-f4b2-d7a7
+an	orange tree	is a kind of		tree								de9a-8956-c029-70af
+an	orbit	is a kind of	regular	path								c1c4-26a9-2671-aebc
+an	osprey	is a kind of		bird								150d-8fc1-9d5d-32da
+an	otter	is a kind of	aquatic	animal								a328-84da-ecad-102f
+an	ounce	is a kind of		unit	for	measuring mass						0a48-259f-8e93-894c
+an	owl	is a kind of		bird								4e05-518c-0615-1082
+	oxygen	is a kind of		gas								16b7-673f-bc0d-ed99
+	oxygen 	is a kind of		element								936b-92a1-0e96-0846
+a	pail	is a kind of		container								3f9b-f0b8-3284-7aca
+a	palm tree	is a kind of		tree								9ad6-aa1b-0ea4-f31a
+a	pan	is a kind of		object								aeeb-c836-d4a0-9a0c
+a	pan;frying pan	is a kind of		container	for	cooking; food						a18a-21be-3303-f9b8
+a	panel	is a kind of		object								1258-c7db-9d8e-88f3
+	paper	is a kind of		material								1c5c-3f13-e713-63f5
+a	paper	is a kind of		object								9098-c80a-ed21-5447
+a	paper bag	is a kind of		object								55b0-655c-6c67-2cf5
+a	paper clip	is a kind of		object								a5e7-8257-cf9d-c8ef
+a	park	is a kind of		environment								32c3-1671-f654-dcb7
+a	particle	is a kind of		object								d4a7-ea98-8609-0e2d
+	particles in objects	are a kind of		matter								1278-7e0e-79a5-2547
+	path	is a kind of		pathway								1ad9-0754-9bf3-7610
+a	pathway	is a kind of		plane								56ab-4514-2109-0942
+a	peach tree	is a kind of		tree								7886-d60a-8794-0c18
+	peas	are a kind of		plant								bac2-9c22-0662-4dcd
+	peas	is a kind of		seed								9711-e2b0-af9e-1208
+a	pebble	is a kind of	small	rock								9815-d368-af06-bf1c
+	pebbles	are a kind of		material								7fcb-f383-0c03-e6a0
+a	pecan tree	is a kind of		tree								a51c-ef9e-4258-374f
+a	pedal	is a kind of		lever								d84c-d7b5-8ac9-478f
+a	pencil	is a kind of		object								e729-2ae7-04b3-9240
+	pepper	is a kind of		solid								ecc4-5d16-aaa4-3595
+a	person	is a kind of		animal								b749-39eb-d9be-228a
+a	phase change	is a kind of	physical	change								b6d6-89d9-43a5-fd91
+	photosynthesis	is a kind of		process								7309-3070-fa70-cad9
+a	physicist	is a kind of		scientist								add6-007e-31dc-2dda
+a	piano	is a kind of	musical	instrument								1ccb-478a-9689-4e12
+a	piece of something	is a kind of		object								52a3-125f-af5d-1f1c
+	pile	is a kind of		motion								29b4-6a08-3db7-782f
+	piles of rock	are a kind of		landform								c7d3-bf39-278c-9647
+a	pine tree	is a kind of		tree								8d1a-ae77-8695-f8b6
+a	pipe	is a kind of		object								43aa-47f0-c8a3-dce6
+a	plain	is a kind of		environment								1bd2-1b6a-cc78-3af3
+a	planet	is a kind of	celestial	object; body								22a2-1029-702e-a29a
+a	plankton	is a kind of		animal								7821-1a7c-405f-2393
+a	plant	is a kind of		living thing								2e89-d8e8-a8fb-9acc
+a	plant	is a kind of		living thing							Duplicate. All used deleted.	7076-a98b-7c81-2cae
+a	plant	is a kind of		organism								26c3-eec4-e1d0-fac5
+a	plant cell	is a kind of		cell								816a-0510-1046-441e
+	planting	is a kind of	human	action								06da-24f1-4d68-fccc
+	planting crops	is a kind of		activity								fbe1-1231-31db-cc93
+	plants	are a kind of		resource								091e-de33-5241-07bb
+	plants appearing on Earth	is a kind of		event								f608-68a4-9b75-3800
+	plasma	is a kind of		state of matter								fcce-8881-7921-d9d2
+	plastic	is a kind of		electrical insulator								9710-2f26-70ba-a122
+	plastic	is a kind of		material				made by humans				b24b-be1d-9e0d-4037
+	plate tectonics	is a kind of		process								e490-5554-4225-68e2
+	Pluto	is a kind of		dwarf planet								1230-534f-c1fb-8a2a
+a	poison	is a kind of		substance								f184-e4d0-25d9-d4c7
+a	polar bear	is a kind of		bear								cef3-cbfc-0564-ae29
+	pollinating	is a kind of		function								a99f-fa5c-c233-1d3c
+	pollination	is a kind of		process	for	plant reproduction						f55b-507a-c8f0-2acf
+	polluting	is a kind of		activity								0a09-b3f6-9229-9511
+	polluting gasses	are a kind of		pollution								5509-45e6-fb83-8003
+a	pollutions standard	is a kind of		standard	for	reducing	pollutants emitted	by vehicles; by factories				1fa0-bd7e-3b50-b250
+a	pond	is a kind of		body of water								2a41-7224-fbc2-ba94
+a	pond	is a kind of		environment								e37d-8beb-fc76-3e82
+a	pond	is a kind of		habitat								9f21-978a-56e9-2a20
+a	pool	is a kind of		body of water								7ebb-7a94-af1e-9fa9
+a	pot	is a kind of		container								4a8d-ee0c-6d0f-d1e8
+a	pot	is a kind of		object								96a6-5b63-d917-e649
+a	pound	is a kind of		unit	for	measuring mass						dd24-6f15-cb10-52a2
+	pouring	is a kind of		activity								1d93-ec14-264b-13bf
+a	prairie dog	is a kind of		animal								8130-7bd7-79e3-67cf
+	precipitation	is a kind of	natural	occurrence; cause								83c7-bb21-6c58-9534
+	precipitation	is a kind of		weather								86b0-5c6f-cd54-4d52
+a	predator	is a kind of		animal								8ece-a376-c847-9127
+a	predator	is a kind of		enemy				to its prey				0d35-1653-d1f5-29f2
+	prey	is a kind of		food	for	predators						d719-81ad-03ff-57f0
+	prey 	is a kind of		animal								8c3a-8bf8-70a4-5d30
+a	prism	is a kind of		object								9511-f01b-f849-79ca
+a	prism	is a kind of		tool	for	refracting light						237d-6b78-ad88-e3b4
+a	process	is a kind of		event								3b7f-815d-511b-c7bb
+a	producer	is a kind of		living thing								6307-398c-de48-8773
+	producer	is a kind of		role				in the food chain process; in an ecosystem				3bad-691a-15c4-44f6
+	producing	is a kind of		function								541c-2eac-6ed4-ea6a
+a	product	is a kind of		object								e9b5-edaa-0d49-f73a
+a	prong	is a kind of		object								d9e7-bba2-e42c-95af
+a	property	is a kind of		information								b31b-67cf-066a-859c
+	protecting	is a kind of		function								401b-d6f7-6bc5-3718
+	providing	is a kind of		function								c8c6-5825-8e18-f509
+	providing support	is a kind of		function								aefd-91ae-8cfa-8c9e
+a	puddle	is a kind of		body of water								65d3-05bf-28db-3f1a
+a	pull	is a kind of		force								7650-49b9-49e2-621d
+a	pulley	is a kind of		simple machine								bb60-4e0b-60fd-ba84
+	pulling	is a kind of		motion								cffc-a299-4321-b49d
+	pulling a plow	is a kind of		chore								6bf2-704e-e347-88d8
+	pumice	is a kind of		igneous rock								236b-7456-aa80-d1b2
+a	pumpkin	is a kind of		gourd								62fd-87cf-2e18-fdae
+a	puppy	is a kind of	young; baby	dog							Moved to Proto-Instances table	67d1-3153-14a9-1995
+	purple;violet;magenta	is a kind of		color								799b-aef6-8f37-da4b
+	push	is a kind of		force; application of force								211f-8a51-037c-704c
+	pushing	is a kind of		motion								044f-aca4-3be4-bb64
+	quail	are a kind of		bird								63bf-ae3e-f088-9fcb
+	quartz	is a kind of		mineral								fe8b-fc9f-5401-dc19
+a	rabbit	is a kind of		animal								44d7-fef6-90ef-75aa
+a	rabbit	is a kind of		mammal								e58f-f348-e54d-38fe
+a	raccoon	is a kind of		animal								e4ff-648c-242b-c15f
+	radiation	is a kind of		process								a15e-101d-6fea-e0b6
+a	radio	is a kind of	electrical	device								e58b-3217-6a20-dde2
+a	radio	is a kind of		tool								c000-3986-2fd0-ebb0
+	railroad tracks	are a kind of		object								7ffb-2fbf-9c6a-7f2a
+	rain	is a kind of		precipitation								da1e-dca3-f46a-5189
+	rain	is a kind of		water								214a-9ca3-2983-aa79
+a	rain forest	is a kind of		forest								9cd8-1401-0318-9bae
+a	rain gauge	is a kind of	graduated	cylinder								1732-2d9c-7bc6-4556
+	rainwater	is a kind of		water								c546-7b47-1430-cf87
+	raising	is a kind of		motion								c2ad-3683-d3ec-f235
+a	ramp	is a kind of		object								d99b-5382-b496-b2fd
+	rattle	is a kind of		motion								c946-7dd2-7e3b-c4b7
+	rattle	is a kind of		motion							Dup. All used deleted. 	348b-f9ad-c079-e044
+a	rattle	is a kind of		vibration								dcbe-adb9-3be2-6645
+	reading	is a kind of		activity								3d84-54ff-cea1-4765
+	recycling	is a kind of		method of disposal								f43e-ee8c-d2ee-7e60
+	red	is a kind of		color								c118-527e-6211-a80e
+	reducing	is a kind of		change								bfda-12f7-b81e-5251
+a	redwood tree	is a kind of		tree								f474-99cb-bbd0-140a
+a	refrigerator	is a kind of		appliance								fb43-38c7-f8b9-ee5d
+a	region	is a kind of		location								4539-85f1-57c0-5e89
+	releasing energy	is a kind of		function								1e59-1be2-a1fb-758e
+	removing trees	is a kind of		task								85ed-5001-a1bd-2bc1
+	removing waste	is a kind of		function								de82-6668-2baf-1817
+a	renewable resource	is a kind of		natural resource								24cb-9b36-6469-e83f
+a	renewable resource	is a kind of	naturally replaced	resource								a8dc-5ad8-3e2b-3e2a
+	reproducing	is a kind of		activity								d0de-e9fb-4004-8340
+	reproduction	is a kind of		process								1076-5022-7c68-9365
+a	reptile	is a kind of		animal								2055-ec3b-4dfb-58e7
+a	reservoir	is a kind of		body of water								902c-e87d-dede-6cdc
+a	resident	is a kind of		person								8a53-4283-77ed-02b1
+	rest	is a kind of		activity								3c48-fb11-4242-974f
+	returning	is a kind of		movement								78c5-6ab2-0b31-7bc1
+	revolving	is a kind of		motion								02f7-3d00-6d43-0289
+	Richmond	is a kind of		town								3e49-ad6a-5665-0cd5
+	riding	is a kind of		motion								74d9-e91b-c38a-b5d2
+	riding something	is a kind of		movement								eb88-7190-51ea-a396
+	ringing	is a kind of		action								2d60-9f81-f014-f5d5
+	ringing	is a kind of		function				of a doorbell				a99c-e41a-2a2b-ad6b
+	rising	is a kind of		motion	 							d257-69b5-a1b9-f7e7
+a	river	is a kind of	flowing	body of water								9885-6337-f26c-cfbd
+a	river	is a kind of		channel	for	water						97bd-f0af-bf53-8596
+a	road	is a kind of		location								90c5-2559-60d6-ec29
+a	road	is a kind of		object								3234-2820-f7a1-4074
+a	robin	is a kind of		bird								9621-09a0-c0f8-289e
+a	rock	is a kind of		object								7c8b-3728-1d36-f922
+a	rock	is a kind of		object							Dup. All used deleted. 	7f7a-4e87-ae37-26c0
+a	rock	is a kind of		object							Dup. All used deleted. 	376c-0550-d351-b87d
+	rock	is a kind of	nonliving	thing								af33-4409-5f16-cd4c
+a	rocket	is a kind of		mechanical system								5138-62a8-253e-2817
+a	rocket	is a kind of		vehicle								db13-7d7e-3c0b-55f1
+a	rod	is a kind of		object								ec0a-ecbf-8142-bbe8
+a	roll	is a kind of		movement								5c38-cb22-09a4-2287
+a	roller skate	is a kind of		vehicle								d628-d467-b7a5-978a
+	rolling	is a kind of		motion								b545-b586-fd95-b2af
+a	rose	is a kind of		flower								0ffa-d415-c252-1fbb
+	rotation	is a kind of		motion								f603-3c96-a570-1918
+	rubber	is a kind of		electrical insulator							Moved to Prop-Conductivity	e50b-5a98-1529-da25
+	rubber	is a kind of		material								1946-b43f-82d5-547d
+a	rubber band	is a kind of		object								6a9a-da2d-2dee-c5bc
+	rubbing against something	is a kind of		contact								9550-c1ae-9209-afcd
+a	ruler	is a kind of		tool	for	measuring length						a429-ec06-2e2a-f6f9
+	running	is a kind of		movement								b096-ec41-5c64-f0d4
+	runoff	is a kind of		water								2337-bb5b-8d11-5cc8
+	rust forming	is a kind of	chemical	change								3fb1-78ec-77f8-d713
+	safety goggles	are a kind of	safety	gear								d308-2f92-6950-1fea
+a	salamander	is a kind of		amphibian								92a5-2060-cfc0-1d19
+a	salamander	is a kind of	aquatic	animal								2452-4ec6-cebd-d341
+	salt	is a kind of		solid								a104-d8c9-efec-46be
+	salt	is a kind of		substance								1fd0-279c-ed27-afca
+a	sand dune	is a kind of		hill								e481-01da-0d36-2db3
+a	sand dune	is a kind of		land formation								c4a5-aa15-26ae-c951
+	sandpaper	is a kind of		paper								e4b8-a6da-d588-9518
+a	satellite	is a kind of		instrument	for	observing Earth's surface						502e-c41f-5433-c8e0
+a	schoolyard	is a kind of		place								078d-8864-7f8d-5b5a
+a	scientist	is a kind of		human								ade4-c403-3219-6cb1
+a	scratch	is a kind of		wound								d5e8-c37b-e2ff-958a
+a	screw	is a kind of	simple	machine								1b74-b53a-b4ec-5b5f
+	sea grass	is a kind of		plant								58d5-0388-b85d-eb4e
+a	sea turtle	is a kind of		animal								cc37-fd38-b39c-7eb2
+a	seal	is a kind of		animal								999d-78fd-e16b-a8b6
+a	seashell	is a kind of		object								8f4d-39c0-8ee7-35e4
+a	seasonal change	is a kind of		environmental change								e3f8-1683-0562-bee2
+	seaweed	is a kind of		plant								5e64-f4ff-d256-f740
+	seconds	are a kind of		unit	for	measuring time						4f6c-7f8c-b9d5-f3cb
+	sediment	is a kind of		matter								ccdf-7e78-c469-dc95
+	sedimentary	is a kind of		rock								68cb-62b0-32a3-30e2
+a	seed	is a kind of		food	for	birds						2e77-d6d7-8255-82e3
+a	seed	is a kind of	young	plant								2c17-469f-2296-dbee
+a	seismograph	is a kind of		tool	for	measuring the size of an earthquake						0ad1-f529-32a2-a01d
+a	sense	is a kind of		ability								d643-d0c5-6eb7-cf62
+	sense	is a kind of		characteristic				of an animal				f6fb-5aa7-3464-c565
+	setting	is a kind of		motion								0da9-2984-f126-bcad
+	shaking	is a kind of		motion								be5f-56dc-4b83-3d4a
+	shale	is a kind of		sedimentary rock								77dc-05da-a205-2af9
+	shape	is a kind of		characteristic								409a-a89f-e238-2bac
+	shape	is a kind of		property							Moved to Properties-Generic	b6c4-b023-d265-5810
+	shape	is a kind of	physical	property								095a-404f-6149-222c
+a	shark	is a kind of		fish								737d-9e1b-683f-862c
+a	sheet of sandpaper	is a kind of		object								7ab6-d0b1-eac4-a2a9
+a	shell	is a kind of		fossil								b1d2-660c-6f63-cfd8
+	shelter	is a kind of	protective	covering								07ae-5b5d-6e83-d86a
+	shelter	is a kind of		place;building;structure	for	protection						e98a-5e1d-e825-0c47
+a	shirt	is a kind of		article of clothing								9eef-20c5-1709-cdf3
+	shivering	is a kind of		shaking								ef35-06f3-5e2e-e454
+a	shout	is a kind of		sound								8cef-917a-e2d3-335e
+the	sidewalk	is a kind of		object								ce7e-f24a-8088-35e6
+a	sifter	is a kind of		tool	for	separating mixtures						bb8f-9e8f-0b8b-d4c1
+	sight	is a kind of		sense								39ca-a831-8d1a-babd
+	silver	is a kind of		metal								5179-3c12-fa5f-2f13
+a	simple machine	is a kind of		tool								7cee-45d4-aa3a-ca19
+a	single-celled organism	is a kind of		living thing								429b-b860-9460-60c7
+	sinking	is a kind of	downward	direction								dc32-dc44-96ac-eb1b
+	size	is a kind of		property							Moved to Properties-Generic	0ae8-a7a7-bfa3-b412
+the	skeletal system	is a kind of	body	system								3e34-7133-f645-504b
+	skidding	is a kind of		motion								ff12-30f0-2d0c-0da9
+	skill	is a kind of	learned	characteristic							Moved to Prop-InheritedLearned	63ec-5f87-c5f3-ba23
+	skin	is a kind of		material								de67-5c47-a55a-04a0
+	skin	is a kind of		organ								9c97-5684-21f1-8494
+a	skunk	is a kind of		animal								0a95-0ed2-b881-a7ef
+	slate	is a kind of		metamorphic rock								0fc7-bb62-bc30-e3fd
+a	sleeping bag	is a kind of		product								61cc-33fa-5056-7255
+	sleet	is a kind of		ice								77f1-c14f-39cf-b4fd
+	sleet	is a kind of		precipitation								f704-bbf0-c1f5-b8ba
+a	slide	is a kind of		object								1901-4f2b-21f5-11b7
+	sliding	is a kind of		motion								064c-b643-8110-0d09
+	sliding	is a kind of		movement								a923-adcf-f552-5902
+	slipping	is a kind of		motion								c3ed-2a60-a3c3-a504
+	smell	is a kind of		sense								9ead-baf3-0465-3c2a
+	smooth	is a kind of		texture								be7f-0242-d76f-3be0
+a	snail	is a kind of		animal								7c65-e5ab-1f92-0c39
+a	snake	is a kind of		animal								6188-73e6-6db4-bfea
+	snow	is a kind of		ice								c2a0-5b9e-4796-94a2
+	snow	is a kind of		precipitation								8083-d6d0-9cba-da83
+a	snowshoe hare	is a kind of		animal								c82d-ab6a-a378-5db3
+	snowstorm	is a kind of		weather								bde3-2540-817a-ddf2
+	soda	is a kind of		beverage								af1a-348d-eec7-2eb8
+	soft	is a kind of		hardness								0654-00a0-45fb-b306
+	soft	is a kind of		touch sensation								e4a3-6678-a530-3b3e
+a	softball	is a kind of		ball								1325-3c4b-a5a6-1db8
+a	softball bat	is a kind of		lever								dae9-e208-58cd-a9d8
+	soil	is a kind of		material								45bb-9ef6-d3bd-e645
+	soil	is a kind of		nonliving thing								ea61-1f68-79b7-f09f
+	soil	is a kind of		renewable resource							Moved to PROP-RESOURCES-RENEWABLE	54c4-aa6c-13ff-945d
+	soil erosion	is a kind of	slow; natural	process								11c8-fdbb-e0de-c7b7
+	solar energy	is a kind of		energy								4849-d977-c75a-e8fb
+	solar energy	is a kind of	heat	energy								89b7-8583-941a-df9d
+	solar energy	is a kind of		light								4399-9824-93cb-c8e7
+	solar energy	is a kind of		renewable resource							Moved to PROP-RESOURCES-RENEWABLE	e8e9-20d2-8931-d1f8
+	solar energy	is a kind of	inexhaustible	resource							Moved to PROP-RESOURCES-RENEWABLE	6bc4-b893-7cc3-c233
+	solid	is a kind of		state of matter								cf49-1b7a-89f0-41f5
+	something that happens	is a kind of		event								b8b1-9da5-1b1d-a2f7
+	sound	is a kind of		energy								1980-256d-b685-846c
+	sound	is a kind of		sound energy								7726-d9fd-f431-db04
+	sound	is a kind of	air	vibration								c73c-b25a-5409-a480
+	soup	is a kind of		food								330c-b2e7-f883-13e6
+	soup	is a kind of		liquid								3005-d180-4d74-cdb2
+	south	is a kind of		direction								34c2-c483-57d1-543e
+the	Southern Hemisphere	is a kind of		hemisphere				of Earth				5082-d519-1343-5653
+	space	is a kind of		resource								1238-9a25-7978-c11f
+	speaking	is a kind of		communication								de85-5c79-0f87-2066
+	speckled	is a kind of	color	pattern								5c77-2dc4-7ebe-7cbe
+	spices	are a kind of		material								cf70-3fdf-c124-a754
+a	spider	is a kind of		animal								975a-1b34-37f3-7723
+a	spine	is a kind of		object								4760-f7f8-5130-db3c
+a	spoon	is a kind of		object								fb45-a64a-13f3-241c
+	spotted	is a kind of	color	pattern								ca03-f52b-b637-957b
+	spring	is a kind of		season								af84-b2e1-3d77-58f9
+a	squirrel	is a kind of		animal								b5dc-c66c-4d4e-031d
+a	star	is a kind of		celestial object; celestial body								dbe8-e776-f804-99a0
+	starch	is a kind of 	complex	carbohydrate								e469-a11a-36a0-3e09
+a	starling	is a kind of		bird								bef3-e1f3-4609-53c2
+a	state	is a kind of		place								034e-5eb5-eaf7-aab7
+	state of matter	is a kind of		property								7532-01eb-475e-acbd
+	state of matter at room temperature	is a kind of	physical	property								a648-4d74-dae9-2ef2
+a	statue	is a kind of		object								e5d5-338d-263a-84af
+	steam	is a kind of		gas								f2a5-90e6-9cfa-b646
+	steam;water vapor	is a kind of		water					above 100 degrees celsius			74d3-98e4-9bf5-7aa1
+	steel	is a kind of		metal								d49f-dde6-0083-0a5b
+	sterling silver	is a kind of		alloy								3379-66dc-280f-20e5
+	sterling silver	is a kind of		metal								1f26-9d60-19b5-05d1
+a	stick	is a kind of		object								0c4f-43da-c106-3620
+a	sticky tongue	is a kind of		adaptation	for	catching insects						ed29-4e9b-989d-bae0
+a	stopwatch	is a kind of		tool	for	measuring time						ba0a-4b3e-ff60-ec49
+	storing water	is a kind of		adaptation								c412-a85a-5de1-771a
+	storm	is a kind of		weather; weather event								182e-8760-e878-1751
+a	stout beardfish	is a kind of		fish								2223-80a8-8d8c-0183
+a	stove	is a kind of		machine								0963-6254-d160-4097
+a	stove	is a kind of		machine							Dup. All uses replaced. 	2ce7-2ffc-30dc-2c08
+a	stream	is a kind of		body of water								c71c-f0da-3930-67f0
+	strength	is a kind of		property								cd45-3b6d-c0bd-d377
+a	string	is a kind of		object								e348-689b-5fde-b228
+a	strip	is a kind of		object								3cb8-96f0-34fb-8417
+	striped	is a kind of	color	pattern								3483-7c99-093c-e25c
+	strong beaks; sharp beaks	are a kind of		adaptation	for	catching prey						65e2-7649-725c-db72
+a	structure	is a kind of		feature								7dea-62b3-c169-a6bf
+a	student	is a kind of		human								3ed8-5fde-3b7b-6513
+a	submarine	is a kind of		object								6759-1566-8f4d-4da2
+	sugar	is a kind of 	simple	carbohydrate								fa62-7076-3a48-59e3
+	sugar	is a kind of		food								d96d-6f08-5365-2084
+	sugar	is a kind of		solid								d061-b761-db46-512d
+	sugar	is a kind of		substance								826e-4bd3-1390-0182
+	sulfur	is a kind of		mineral								8de7-2eab-c43a-5f70
+	summer	is a kind of		season								3f3f-f2cb-ae3d-f238
+the	Sun	is a kind of		star								af26-8083-b908-7d3b
+the	Sun	is a kind of		star							Dup. All uses replaced. 	7471-bdd9-0d81-87f4
+the	Sun	is a kind of		star							Dup. All uses replaced. 	734b-8a38-a99b-5341
+the	sun rising	is a kind of		event								5b3e-36e4-ab92-9468
+the	sun setting	is a kind of		event								9ed6-4e8f-abab-588b
+a	sunflower	is a kind of		plant								000b-8380-fb97-aee5
+	sunlight	is a kind of		light								49dc-4526-46f9-5b32
+	sunlight	is a kind of		solar energy								59d6-9954-ef5e-12b2
+	sunny	is a kind of		weather								16da-5361-a2eb-9264
+a	swamp	is a kind of		environment								8aaf-28c3-9099-96b9
+	sweet	is a kind of		flavor								5c00-b065-93b2-b8b3
+	swimming	is a kind of		skill								03de-d7d0-b5a6-e027
+	syrup	is a kind of		liquid								7ab9-c401-de04-a804
+a	table	is a kind of		furniture								8706-febe-af37-4bc4
+a	table	is a kind of		object								268d-a671-9d83-031a
+a	tadpole	is a kind of	young; baby	frog								3596-66e7-97d6-0e9a
+a	tag	is a kind of		tool	for	monitoring an object's location						ce71-9833-2959-cb9d
+	talc	is a kind of		mineral								7427-b4fb-4ccb-66bb
+a	tape measure	is a kind of		tool	for	measuring distance; measuring length						89ff-54de-77cf-9d13
+	taste	is a kind of		property								64a0-5e98-eead-e1aa
+	taste	is a kind of		sense								89d7-ec28-323f-ad68
+	taste	is a kind of		sense							Dup. All uses replaced. 	5dfe-9045-4afd-d365
+	tea	is a kind of		beverage								b906-1552-b7cb-0be1
+	tearing	is a kind of		damage								03cf-92e2-59ae-3b3a
+a	tectonic plate	is a kind of		object								73a5-fd93-9595-79df
+a	telephone	is a kind of		electrical device	for	communication						a2e1-8d32-c994-cd9c
+a	telephone	is a kind of		technology								cdfd-1234-1b8c-b945
+a	telephone	is a kind of		tool								3b84-2ea8-db99-4f3b
+a	telescope	is a kind of		instrument	for	observing celestial objects; observing the sky						55a5-70f3-961c-a142
+an	television set	is a kind of	electrical	device								89ae-f520-fdbf-4c54
+	temperature	is a kind of		heat energy							Moved Measurements	366a-ea76-9772-cd03
+a	termite	is a kind of		insect								ed80-15ae-c493-8ca6
+	texture	is a kind of		property							Moved to Properties-Generic	a8c3-0d59-ce83-f4c9
+	the shapes of the parts of something	are a kind of		property of that something							Moved to Properties-Generic	4933-8cde-0c54-1767
+	thermal gloves	are a kind of	safety	gear								6f96-bf9c-7fa5-2340
+a	thermometer	is a kind of		instrument	for	measuring temperature						1296-2edb-a443-10d1
+a	thorn	is a kind of		object								ae87-8deb-5a31-1c69
+	thunder	is a kind of		sound								b7ba-f45b-5ed8-9205
+a	thunderstorm	is a kind of		storm								ed1d-c1cf-76c9-eed3
+	tidal energy	is a kind of	alternative	energy resource								ce51-5349-0ca9-75bc
+a	tide	is a kind of	natural	event								7c75-71b3-613b-1ebe
+a	tiger	is a kind of		animal								e13e-7a37-14b2-8e23
+a	tire	is a kind of		object								02c9-a481-d0f4-91e2
+	to be a vehicle for	is a kind of		function								8a7c-8cdf-1a2d-225e
+	to wash away	is a kind of		movement			by moving water					c41d-ddb3-ef96-b433
+a	toaster	is a kind of	electrical	device								50a8-996b-b8bf-e107
+	toasting	is a kind of		cooking								4fbb-49e2-aba5-690d
+a	tool	is a kind of		object								75de-7e0e-d204-6ec0
+a	tooth	is a kind of		bone								dd90-d920-81f6-416c
+	tornado	is a kind of		weather								a1aa-f4ab-8332-157d
+	touch	is a kind of		sense								e0fe-14d9-9d28-87bb
+	toward	is a kind of		direction								3599-03b4-9c23-4b8f
+	transfer	is a kind of		process								7b18-e422-e212-d376
+	transpiration	is a kind of		process								9974-bcb8-7899-2ae4
+	transporting	is a kind of		function								6de6-2fbd-0113-0492
+	transporting materials through a plant	is a kind of		function								ec54-dc25-4e1a-18c7
+	transporting nutrients, water, and minerals	is a kind of		function								46cd-dec2-14f6-b382
+a	tree	is a kind of		living thing								7e6a-bb5a-c31e-85f2
+a	tree	is a kind of		matter								0340-14ae-a023-ac50
+a	tree	is a kind of		plant								0d3a-8739-9f42-5e1c
+a	tree frog	is a kind of		animal								1c1c-9c8d-bd03-dfea
+	trees	are a kind of		renewable resource							Moved to PROP-RESOURCES-RENEWABLE	8803-e262-cbe2-c8e1
+	trees	are a kind of		resource								e818-cf4a-2d3a-c8c6
+a	trilobite	is a kind of	water	animal								2ac7-87be-4297-8014
+	trout	is a kind of		fish								ac16-c85f-55f1-0725
+a	tube	is a kind of		hollow object								90e6-7cf1-f97e-8519
+	tuna	is a kind of		fish								402e-1817-1d04-e00f
+the	tundra	is a kind of		environment								51f0-0d35-bbcf-e84c
+	tungsten	is a kind of		metal								d85c-6167-112d-92ae
+a	tunnel	is a kind of		hole								0456-0148-2518-a48e
+	turning on	is a kind of		process								d3a2-7e30-c0fc-2ec5
+a	turtle	is a kind of		animal								964f-3c67-13dd-a443
+a	turtle	is a kind of		reptile								63f8-0c28-2691-5e74
+	tying back long hair	is a kind of	safe	practice				in a laboratory				f873-b72a-39bf-0deb
+a	type of something	is a kind of		property				of that something				3bc7-74c9-307f-6f56
+a	unit for measuring time	is a kind of		time interval								70e8-113c-aa13-7a72
+the	United States	is a kind of		country								0a04-e1b0-44ed-652d
+the	United States of America	is a kind of		location								664b-4f0e-914c-f410
+a	user	is a kind of		person								d038-d316-c727-61e8
+	UV light	is a kind of		light								d9ca-e581-1fad-e095
+	valley quail	are a kind of		quail								82fa-e7a4-1da6-7ae5
+	variability of shape; variability of volume	is a kind of		property								f926-954b-1f50-2b3b
+a	vegetable	is a kind of		plant								6755-3424-c45b-3c9c
+a	vehicle	is a kind of		object								d047-715f-550d-3eaa
+a	vehicle	is a kind of		tool	for	travel; transport						2b96-b294-3abb-3f9b
+	vibration	is a kind of		motion								84cd-6cd8-331b-f869
+a	vine	is a kind of		stem								98fe-58e0-bbf4-c401
+	vinegar	is a kind of		liquid								1ba7-86f9-9cab-21f4
+a	volcanic eruption	is a kind of		change								b5e9-24c9-bf9a-095f
+a	volcanic eruption	is a kind of	quick	process								ba5a-219b-b187-3b98
+a	wagon	is a kind of		vehicle								1022-5edd-48da-fd5a
+	walking	is a kind of		behavior								2323-a1bc-b57d-4a0c
+	walking	is a kind of		motion								8848-4ca5-92b5-6607
+a	wall	is a kind of		object								711b-f9b6-6a97-e3c5
+a	wall	is a kind of		surface								3fe8-0138-a901-b730
+a	walrus	is a kind of	sea	mammal								4df6-1a70-4364-cd87
+a	waning crescent	is a kind of		phase of the moon								ad73-5c93-32aa-6f1f
+a	waning gibbous	is a kind of		phase of the moon								c5a9-9966-e1ba-9643
+a	wasp	is a kind of		insect								5a35-133a-dcf9-2e06
+	water	is a kind of		liquid								3961-d09c-4b9a-a6f7
+	water	is a kind of		matter								fece-0edb-14bf-0a34
+	water	is a kind of		medium	for	light						1505-53ee-1d64-b11d
+	water	is a kind of		natural resource								1c04-5228-7c5d-ab8a
+	water	is a kind of		object								533c-79f7-8267-e271
+	water	is a kind of		substance								81b7-0a58-5b0b-0bbf
+	water	is a kind of	nonliving	thing								2e1a-7f43-2f56-54a8
+a	water lily	is a kind of	green	plant								1869-0d26-040c-9a3d
+a	water tower	is a kind of		habitat	for birds							892b-d4f7-9599-791b
+	waving	is a kind of		motion								78ff-b0b7-b1c5-5536
+	wax	is a kind of		electrical insulator							Moved to Prop-Conductivity	a0ab-5919-c5e1-2df1
+a	waxing crescent	is a kind of		phase of the moon								9dd7-2ee2-44ed-2a08
+a	waxing gibbous	is a kind of		phase of the moon								59a8-0777-9606-d6a2
+	wearing safety goggles	is a kind of	safe	practice				in a laboratory				ab25-5770-3344-605e
+	weathering	is a kind of		erosion								1272-6781-b4fb-96ab
+	weathering	is a kind of		process								b9ee-1aa0-8736-13c8
+	weed	is a kind of		plant								9ebc-df4f-9e45-4e81
+	weight	is a kind of		property								5720-208c-fea0-628e
+a	Western coral snake	is a kind of		snake								2b58-eef0-ced3-1aa1
+the	Western Hemisphere	is a kind of		hemisphere				of Earth				f3ad-4a87-c0a1-f77e
+a	wetland	is a kind of		ecosystem								426c-6ee0-9023-3cca
+a	wetland	is a kind of		habitat								a841-6cf9-a034-f5a7
+a	whale shark	is a kind of		shark								f8c1-7c98-7ff9-89ad
+a	wheel and axle	is a kind of	simple	machine								a6c8-8725-3c2d-60a7
+	white	is a kind of		color								12c9-e2b2-25cd-65c6
+a	wildfire	is a kind of	natural	disaster								b20b-f9ca-a6c1-68e6
+	wind	is a kind of		renewable resource							Moved to PROP-RESOURCES-RENEWABLE	c787-56c3-ff8c-1b86
+a	window	is a kind of		object								7747-2a9d-897d-f11c
+a	windshield wiper	is a kind of		tool	for	increasing visibility		while driving in bad weather				e6c0-2039-84cd-c6dd
+	winter	is a kind of		season								633c-3fd4-7320-00cf
+	wiping up spills immediately	is a kind of	safe	practice				in a laboratory				4197-9c0b-9863-629e
+a	wire	is a kind of		object 								d576-0ead-0543-9136
+a	wire	is a kind of		path	for	electricity						07e7-551b-7ffc-6aa5
+a	wolf	is a kind of		animal								9727-5f85-da9b-f759
+	wood	is a kind of		electrical insulator							Moved to Prop-Conductivity	1cf8-b38e-f9e9-8f03
+	wood	is a kind of	natural	material								2b35-1f1c-4f5d-e8e9
+	wood	is a kind of		object								7969-9020-bfa6-c54c
+	wood	is a kind of		renewable resource							Moved to PROP-RESOURCES-RENEWABLE	487e-9180-917f-c1b5
+a	woodpecker	is a kind of		bird								58d8-a151-b408-ed86
+	words; letters	are a kind of		object							Low quality? No uses.	ff50-3550-30a2-d8fa
+	work	is a kind of		place								2024-1639-fb8a-1568
+a	worm	is a kind of		animal								9d7a-3ad1-561c-deae
+a	worm	is a kind of		living thing								1c66-2f7c-2b52-0b37
+	years	are a kind of		unit	for	measuring time						406d-464a-cfa5-7b67
+a	yeast cell	is a kind of	single cell	organism								7d5f-5e63-dd7d-4096
+	yellow	is a kind of		color								8248-ae54-9660-d22c
+	zinc	is a kind of		metal								e29c-2800-f9a7-6195
+	zinc	is a kind of		mineral								77ce-37b8-e09b-f59f
+a	plain	is a kind of		landform								089e-dcd5-b124-189c
+a	sheet of paper	is a kind of		object								5029-9d16-9c77-acf3
+a	bar	is a kind of		object								e9d2-21ea-0bdc-f4ca
+	pasteurization	is a kind of		process								932b-ef93-f3dd-c1f7
